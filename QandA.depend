@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1553769059 source:d:\projects\c++\eee\main.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<cstring>
+	<string>
+	<cstdlib>
+
+1553870724 source:d:\projects\c++\qanda\main.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<cstring>
+	<string>
+	<cstdlib>
+

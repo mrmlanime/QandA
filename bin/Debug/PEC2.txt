@@ -1,0 +1,108 @@
+﻿1.  Exposed live parts within porcelain fixtures shall be suitably recessed and located so as to make it improbable that wires will come in contact with them. There shall be a spacing of at least ____ between live parts and the mounting plane of the fixture.?
+A. 13mm
+B. 15mm
+C. 20mm
+D. 25mm
+E. 1000m
+ANSWER: A  
+2. Outlets for specific appliances such as laundry equipment shall be within ____ mm of the appliance.?
+A. 1500
+B. 1800
+C. 1200
+D. 2000 
+ANSWER: B   
+3. An enclosure designed either for surface or flush mounting and provided with a frame mat or trim in which a swinging door or doors are or may be hung is a ____. ?
+A. panel board
+B. switchboard
+C. wire way
+D. cabinet
+ANSWER: D  
+4. A metal elbow that is installed in an underground installation of rigid nonmetallic conduit and is isolated from possible contact by a minimum cover of _____ mm to any part of the elbow shall not be groundeD.?
+A. 450
+B. 500
+C. 460
+D. 480
+ANSWER: A  
+5. To prevent the entrance of moisture service-entrance conductors shall be connected to the service-drop conductor ____.,I. below the level of the termination of the service-entrance cable sheath,II. below the level of the service head ?
+A. I only
+B. II only
+C. both l and ll
+D. neither l or ll
+ANSWER: C   
+6. Which of the following is not a standard size fuse??
+A. 110 amp
+B. 125 amp
+C. 75 amp
+D. 250 amp
+ANSWER: C   
+7. Which of the following is not considered an electric vehicle by the Code?A. industrial fork lift
+B. vans
+C. busses
+D. trucks
+ANSWER: A  
+8. The P.E.C. covers ____.,l.  gas welders,ll.  DC rectifier arc welder,lll.  motor-generator arc welders,lV.  Resistance welders?
+A. l and lV only
+B. l ll and lll only
+C. ll lll and lV only
+D. l ll lll and lV 
+ANSWER: C  
+9. Type FCC cable wiring system is designed for installation under ____.?
+A. tile
+B. carpet
+C. carpet squares
+D. concrete
+ANSWER: C  
+10. Service cables mounted in contact with a building shall be supported at intervals not exceeding ___?
+A. 750 mm
+B. 760 mm
+C. 670 mm
+D. 800 mm 
+ANSWER: A   
+11. Multi-speed motors shall be marked with the code letter designating the locked-rotor kVA horsepower for the highest speed at which the motor ____. ?
+A. can be stalled
+B. can be started
+C. needs to be rated
+D. can run safely 
+ANSWER: B   
+12. Soft-drawn or medium-drawn copper lead in conductors for receiving antenna systems shall be permitted where the maximum span between points of support is less than ____ mm.?
+A. 11000
+B. 12000
+C. 10000
+D. 15000
+ANSWER: A  
+13. Non-heating leads of heating cables operating in 230 volt system shall have a ____ color. ?
+A. red
+B. blue
+C. yellow
+D. brown
+ANSWER: A  
+14. Wading pools are those that are constructed on or above the ground and are capable of holding water to a maximum depth of _____. ?
+A. 1500 mm
+B. 1000 mm
+C. 1200 mm
+D. 1800 mm
+ANSWER: B  
+15. Branch-circuit conductors within 75 mm of ballast within the ballast compartment shall be recognized for use at temperature not lower than 90 degrees C such as insulation types ________.,,I. THHN ,II.  THHW,III. TW ,IV.?
+A. I only 
+B. I and IV only
+C. I II and IV 
+D. I II III and IV 
+ANSWER: C
+16. Amusement rides shall be maintained not less than ____ mm in any direction from overhead conductors operating at 600 volts or less except for the supply conductors to the ride.?
+A. 3800
+B. 4000
+C. 4500	
+D. 5000
+ANSWER: C   
+17. Flexible cord shall be considered as protected by a 20 amp branch circuit overcurrent device if the cord is ____.?
+A. not less than 1800mm
+B. 1.0 square mm or larger
+C. 1.25 square mm or larger
+D. 0.25 mm or larger 
+ANSWER: C   
+18. Infrared lamps for industrial heating appliances shall have overcurrent protection not exceeding ____ amps.?
+A. 30
+B. 40
+C. 50
+D. 60
+ANSWER: C   	

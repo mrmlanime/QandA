@@ -1,0 +1,12 @@
+1.  "Exposed live parts within porcelain fixtures shall be suitably recessed and located so as to make it improbable that wires will come in contact with them. There shall be a spacing of at least ____ between live parts and the mounting plane of the fixture".?
+A. 13mm
+B. 15mm
+C. 20mm
+D. 25mm 
+ANSWER: A  
+2. Outlets for specific appliances such as laundry equipment shall be within ____ mm of the appliance.?
+A. 1500
+B. 1800
+C. 1200
+D. 2000 
+ANSWER: B 

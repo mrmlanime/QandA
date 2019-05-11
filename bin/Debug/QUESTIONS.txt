@@ -1,0 +1,3000 @@
+﻿1.  Exposed live parts within porcelain fixtures shall be suitably recessed and located so as to make it improbable that wires will come in contact with them. There shall be a spacing of at least ____ between live parts and the mounting plane of the fixture.?
+A. 13mm
+B. 15mm
+C. 20mm
+D. 25mm 
+ANSWER:  A  
+2. Outlets for speCifiC AppliAnCes suCh As lAunDry equipment shAll Be within ____ mm of the AppliAnCe.?
+A. 1500
+B. 1800
+C. 1200
+D. 2000 
+ANSWER:  B  
+3. An enClosure DesigneD either for surfACe or flush mounting AnD proviDeD with A frAme mAt or trim in whiCh A swinging Door or Doors Are or mAy Be hung is A ____. ?
+A. pAnel BoArD
+B. switChBoArD
+C. wire wAy
+D. CABinet
+ANSWER:  D  
+4. A metAl elBow thAt is instAlleD in An unDergrounD instAllAtion of rigiD nonmetAlliC ConDuit AnD is isolAteD from possiBle ContACt By A minimum Cover of _____ mm to Any pArt of the elBow shAll not Be grounDeD.?
+A. 450
+B. 500
+C. 460
+D. 480
+ANSWER:  A  
+5. To prevent the entrAnCe of moisture serviCe-entrAnCe ConDuCtors shAll Be ConneCteD to the serviCe-Drop ConDuCtor ____.\nI. Below the level of the terminAtion of the serviCe-entrAnCe CABle sheAth\nII. Below the level of the serviCe heAD ?
+A. I only
+B. II only
+C. Both l AnD ll
+D. neither l or ll
+ANSWER:  C  
+6. WhiCh of the following is not A stAnDArD size fuse ?
+A. 110 Amp
+B. 125 Amp
+C. 75 Amp
+D. 250 Amp
+ANSWER:  C
+7. WhiCh of the following is not ConsiDereD An eleCtriC vehiCle By the CoDe ?
+A. inDustriAl fork lift
+B. vAns
+C. Busses
+D. truCks
+ANSWER:  A  
+8. The P.E.C. Covers ____.\nl.  gAs welDers\nll.  DC reCtifier ArC welDer\nlll.  motor-generAtor ArC welDers\nlV.  ResistAnCe welDers?
+A. l AnD lV only
+B. l ll AnD lll only
+C. ll lll AnD lV only
+D. l ll lll AnD lV 
+ANSWER:  C  
+9. Type FCC CABle wiring system is DesigneD for instAllAtion unDer ____.?
+A. tile
+B. CArpet
+C. CArpet squAres
+D. ConCrete
+ANSWER:  C  
+10. ServiCe CABles mounteD in ContACt with A BuilDing shAll Be supporteD At intervAls not exCeeDing ___?
+A. 750 mm
+B. 760 mm
+C. 670 mm
+D. 800 mm 
+ANSWER:  A  
+11. Multi-speeD motors shAll Be mArkeD with the CoDe letter DesignAting the loCkeD-rotor kVA horsepower for the highest speeD At whiCh the motor ____. ?
+A. CAn Be stAlleD
+B. CAn Be stArteD
+C. neeDs to Be rAteD
+D. CAn run sAfely 
+ANSWER:  B    
+12. Soft-DrAwn or meDium-DrAwn Copper leAD in ConDuCtors for reCeiving AntennA systems shAll Be permitteD where the mAximum spAn Between points of support is less thAn ____ mm.?
+A. 11000
+B. 12000
+C. 10000
+D. 15000
+ANSWER:  A   
+13. Non-heAting leADs of heAting CABles operAting in 230 volt system shAll hAve A ____ Color. ?
+A. reD
+B. Blue
+C. yellow
+D. Brown
+ANSWER:  A   
+14. WADing pools Are those thAt Are ConstruCteD on or ABove the grounD AnD Are CApABle of holDing wAter to A mAximum Depth of _____. ?
+A. 1500 mm
+B. 1000 mm
+C. 1200 mm
+D. 1800 mm
+ANSWER:  B   
+15.BrAnCh-CirCuit ConDuCtors within 75 mm of BAllAst within the BAllAst CompArtment shAll Be reCognizeD for use At temperAture not lower thAn 90 Degrees C suCh As insulAtion type’s ________.\n\nI. THHN \nII.  THHW\nIII. TW \nIV.  FEP ?
+A. I only 
+B. I AnD IV only
+C. I II AnD IV 
+D. I II III AnD IV 
+ANSWER:C   
+16. Amusement riDes shAll Be mAintAineD not less thAn ____ mm in Any DireCtion from overheAD ConDuCtors operAting At 600 volts or less exCept for the supply ConDuCtors to the riDe.?
+A. 3800
+B. 4000
+C. 4500
+D. 5000
+ANSWER:ANSWER:
+17. FlexiBle CorD shAll Be ConsiDereD As proteCteD By A 20 Amp BrAnCh CirCuit overCurrent DeviCe if the CorD is ____.?
+A. not less thAn 1800mm
+B. 1.0 squAre mm or lArger
+C. 1.25 squAre mm or lArger
+D. 0.25 mm or lArger 
+ANSWER:  C    
+18. InfrAreD lAmps for inDustriAl heAting AppliAnCes shAll hAve overCurrent proteCtion not exCeeDing ____ Amps.?
+A. 30
+B. 40
+C. 50
+D. 60
+ANSWER:  C    pp.ANSWER:
+19. The temperAture limitAtion of MI CABle is BAseD on the ____.?
+A. AmB. Temp.
+B. ConDuCtor insulAtion
+C. insulAting mAteriAls useD in the enD seAl
+D. none of these 
+ANSWER:  C   
+20. OverCurrent DeviCes shAll not Be loCAteD in the viCinity of eAsily ignitABle mAteriAl suCh As in ____. ?
+A. BeDrooms
+B. Clothes Closets
+C. kitChens 
+D. gArAges
+ANSWER:ANSWER:
+21. Where it is imprACtiCABle to loCAte the serviCe heAD ABove the point of AttAChment the serviCe heAD loCAtion shAll Be permitteD not fArther thAn _____ mm from the point of AttAChment?
+A. 600 mm
+B. 760 mm
+C. 610 mm
+D. 1000 mm
+ANSWER:  A    ex pp.ANSWER:
+22. LiquiDtight flexiBle metAl ConDuit is shippeD in whAt sizes minimum AnD mAximum  ?
+A. 15mm to 100mm
+B. 20mm to 80mm
+C. 20mm to 100mm
+D. 10mm to 80mm 
+ANSWER:
+23. Fixtures shAll Be seCurely fAsteneD to Ceiling frAming memBer By meChAniCAl meAns suCh As\n\nl.  rivets \nll.  sCrews\nlll.  Bolts ?
+A. ll only
+B. lll only
+C. ll AnD lll only
+D. l ll AnD lll
+ANSWER:  D    pp.ANSWER:
+24. InsulAteD ConDuCtors useD in wet loCAtions shAll Be ____.?
+A. MTW
+B. AsBestos
+C. THHN
+D. vArnish CAmBriC 
+ANSWER:
+25. In Dwelling units A multi-wire BrAnCh CirCuit supplying more thAn one DeviCe hAve A meAns to DisConneCt simultAneously All ______. ?
+A. grounDeD ConDuCtors
+B. neutrAl ConDuCtors
+C. ungrounDeD ConDuCtors
+D. none of these
+ANSWER:ANSWER:
+26. The worD trAnsformer is intenDeD to meAn A ____ trAnsformer single or poly-phAse iDentifieD By A single nAmeplAte unless otherwise inDiCAteD.?
+A. group
+B. two
+C. inDiviDuAl
+D. step-Down 
+ANSWER:  C   
+27. UnuseD openings in Boxes rACewAys AnD other enClosures shAll Be _____. ?
+A. CloseD with listeD DeviCe
+B. effeCtively CloseD
+C. open 
+D. none of these 
+ANSWER:ANSWER:
+28. FeeDers to floAting Dwellings must Be enCloseD within ____ ConDuit in orDer to withstAnD the forCes exerteD By wAves AnD tiDes. ?
+A. rigiD metAl
+B. rigiD PVC
+C. liquiD-tight flexiBle
+D. EMT
+ANSWER:ANSWER:
+29. Running open wiring on insulAtors MI or MC CABles messengersupporteD wiring ConDuCtors in rACewAy AnD other ApproveD meAns on the outDoor BuilDing surfACes is permitteD for CirCuits operAting At A mAximum of ____ volts nominAl.?
+A. 600
+B. 750
+C. 1000
+D. 4160
+ANSWER:ANSWER:
+30. Where A single AC ConDuCtors CArrying Current pAsses through metAl with mAgnetiC properties the inDuCtive effeCt shAll Be minimizeD By ____.\n\nI. Cutting slots in the metAl Between the inDiviDuAl holes through whiCh inDiviDuAl ConDuCtors pAss\nII. pAssing All the ConDuCtors in the CirCuit through An insulAting wAll suffiCiently lArge for All the ConDuCtors of the CirCuit 
+  A. I only
+B. II only
+C. Both I AnD II
+D. neither I nor II
+ANSWER:  C    pp.ANSWER:
+31. For non-Dwelling units it is permitteD to use A ____ DemAnD fACtor for thAt portion of A reCeptACle loAD thAt exCeeDs 10 kvA.                                             ?
+A. 70%
+B. 80%
+C. 50%
+D. 40% 
+ANSWER:  C   
+32. Wiring over AnD unDer nAvigABle wAter must Be ApproveD By the ____.?
+A. Corps of engineers
+B. CoAst GuArD
+C. Authority hAving jurisDiCtion
+D. Phil. NAvy 
+ANSWER:  C   (ANSWER: pp.ANSWER:
+33. The phAse Current in A grounDing AutotrAnsformer is ____ the neutrAl Current.?
+A. twiCe
+B. 1/2
+C. 1/3
+D. the sAme As
+ANSWER:  C   
+34. In A CloseD-loop AnD progrAmmeD power DistriBution system the outlets shAll Be energizeD only when _____.?
+A. loAD Allows
+B. pluggeD-in eqpt. is iDentifieD
+C. is Done in 120 / 240
+D. none of these 
+ANSWER:  B    pp.ANSWER:
+35.  EleCtriCAl DuCts shAll inCluDe Any of the eleCtriCAl ConDuits reCognizeD As suitABle for use _____. ?
+A. over 600v
+B. As Bus BArs
+C. unDergrounD
+D. exposeD 
+ANSWER:ANSWER:
+36. All DisConneCt meAns requireD By the CoDe AnD eACh serviCe feeDer AnD BrAnCh CirCuit At the point where it originAtes shAll Be legiBly mArkeD ____.?
+A. DAnger of eleCtroCution
+B. DisConneCt
+C. AnD proviDeD w/A loCknut meAns
+D. to inDiCAte its purpose 
+ANSWER:  D  (Ref: 1.10.1.22 pp.ANSWER:
+37. For CABles thAt hAve elliptiCAl Cross seCtion the Cross-seCtionAl AreA CAlCulAtion shAll Be BAseD on using ___ of the ellipse As A CirCle DiAmeter. ?
+A. hAlf
+B. the rADius
+C. the mAjor DiAmeter
+D. the CirCumferenCe 
+ANSWER:  C    pp.ANSWER:
+38. The AlternAte sourCe for emergenCy systems ____ Be requireD to hAve grounD-fAult proteCtion of equipment with AutomAtiC DisConneCting meAns.\n\nl.  shAll  \nll.  shAll not ?
+A. l only
+B. ll only
+C. either l or ll
+D. neither l nor ll 
+ANSWER:  B  (Ref: 7.0.6.2 pp.ANSWER:
+39. Where two or more single-phAse rAnges Are supplieD By A 3-phAse 4wire feeDer AnD the totAl loAD shAll Be ComputeD on the BAsis of ____ the mAximum numBer ConneCteD Between Any two phAses. ?
+A. twiCe 
+B. three times
+C. hAlf 
+D. none of these 
+ANSWER:  A   
+40. Type ___ is A single or multiConDuCtor soliD DieleCtriC insulAteD CABle rAteD 2001 volts or higher.?
+A. MI
+B. NM
+C. MC
+D. MV
+ANSWER:  D  (Ref: 3.28.1.2 pp.ANSWER:
+41. The seConDAry CirCuits of wounDrotor AlternAting Current motors inCluDing ___ shAll Be permitteD to Be proteCteD AgAinst overloAD By the motor-overloAD DeviCe.?
+A. resistors
+B. Controllers
+C. ConDuCtors
+D. All of these 
+ANSWER:  D    pp.ANSWER:
+42. Where seConDAry ties Are useD An overCurrent DeviCe rAteD or set At not more thAn ____ perCent of the rAteD seConDAry Current of the trAnsformers shAll Be proviDeD in the seConDAry ConneCtions of eACh trAnsformer.?
+A. 100
+B. 150
+C. 250
+D. 300
+ANSWER:  C    pp.ANSWER:
+43. ReCeptACles rAteD _____ Amperes or less DireCtly ConneCteD to Aluminum ConDuCtors shAll Be mArkeD CO/ALR. ?
+A. 20
+B. 25
+C. 30
+D. 50
+ANSWER:
+44. EACh CommerCiAl BuilDing AnD eACh CommerCiAl oCCupAnCy ACCessiBle to peDestriAns shAll Be proviDeD At An ACCessiBle loCAtion At eACh entrAnCe with At leAst one ____ for sign or outline lighting system use. ?
+A. outlet
+B. Duplex
+C. GFCI
+D. none requireD 
+ANSWER:
+45.  TrAnsformers AnD eleCtroniC power supplies shAll hAve seConDAry Current rAtings not more thAn ____ milli-Amperes. ?
+A. 300
+B. 350
+C. 400
+D. 600
+ANSWER:  A    pp.ANSWER:
+46. EleCtriC DisChArge lighting fixtures hAving exposeD ____ shAll Be instAlleD thAt these pArts will not Be in ContACt with ComBustiBle mAteriAl.\n\nl.  live pArts \nll.  BAllAsts or trAnsformers\nlll.  AuxiliAry equipment?
+A. l only
+B. ll only
+C. lll only
+D. l ll AnD lll 
+ANSWER:ANSWER:
+47. A/An ____ CirCuit is A CirCuit in whiCh Any spArk or thermAl effeCt is inCApABle of CAusing ignition of A mixture of flAmmABle or ComBustiBle mAteriAl in Air unDer presCriBeD test ConDitions. ?
+A. low voltAge
+B.noninCenDive
+C. hAzArD-proof
+D. explosiveproof
+ANSWER:  B    pp.80ANSWER:
+48. Only wiring methoDs reCognizeD As ____ Are inCluDeD in the CoDe. ?
+A. ApproveD
+B. suitABle
+C. listeD
+D. iDentifieD
+ANSWER:  B   
+49. A 20 Ampere rAteD BrAnCh CirCuit with 3.5 mm2 wire supplying A Duplex reCeptACle CAn Be loADeD to A mAximum of ____ Amperes. ?
+A. 16
+B. 20
+C. 12
+D. 10
+ANSWER:  A    
+50. FCC CABle CAn Be instAlleD unDer CArpet squAres no lArger thAn ____ mm squAre?
+A. 900
+B. 1200
+C. 650
+D. 800
+ANSWER:ANSWER:
+51. CirCuits for ____ shAll not Be ConneCteD to Any system ContAining trolley wires with A grounD return.                                                        ?
+A. kitChen AnD lAunDry
+B. CAr-houses / power houses
+C. rAilwAy stAtions 
+D. lighting AnD power  
+ANSWER:  D  (Ref: 1.10.1.19 pp.ANSWER:
+52. When the kinD of motor is singlephAse AC or DC AnD its supply system is 2-wire single-phAse AC or DC one ConDuCtor grounDeD the minimum numBer AnD the loCAtion of overloAD units suCh As trip Coils relAys or thermAl Cutouts shAll Be ____ ConDuCtors. ?
+A. two one per phAse in hot
+B. one in the ungrounDeD
+C. one in eACh
+D. 2 1 in eACh phAse 
+ANSWER:  B   
+53. No ____ other thAn those speCifieD As requireD for emergenCy use shAll Be supplieD By emergenCy lighting CirCuits.\\nl.  AppliAnCes\nll.  lAmps\nlll.  Fittings ?
+A. l only
+B. l AnD ll only
+C. ll AnD lll only
+D. l ll AnD lll
+ANSWER:  B   
+54. An AppliAnCe   is rAteD 1200 wAtts At 120 volts with no mArkeD nAmeplAte the BrAnCh CirCuit overCurrent DeviCe shAll not exCeeD ___ Amps. ?
+A. 15
+B. 20
+C. 30
+D. 40
+ANSWER:  B   (ANSWER: pp.ANSWER:
+55.  A storAge BAttery of suitABle rAting AnD CApACity to supply AnD mAintAin At not less thAn ___ of system voltAge the totAl loAD of the CirCuits supplying legAlly requireD stAnDBy power for A perioD of At leAst 1 1/2 hours. ?
+A. 100%
+B. 75%
+C. 50%
+D. 871/2 %
+ANSWER:ANSWER:
+56. WhAt is the mAximum time of DelAy permitteD for the GFI to operAte where the grounD-fAult Current is 3000 Amperes  ?
+A. 1/2 seConD
+B. 1 seConD
+C. 3  seConDs
+D. 100 milli-seConDs
+ANSWER:ANSWER:
+57. WhiCh of the following methoDs is not ApproveD for ConDuCtor supports ?
+A. DefleCting of CABles in Boxes 
+B. insertion of Boxes
+C. ClAmping DeviCes
+D. loop ConneCtors 
+ANSWER:  D   1-3 pp.ANSWER: 
+58. A sepArAte BrAnCh CirCuit shAll supply the ____ reCeptACles AuxiliAry power sourCe AnD ventilAtion on eACh elevAtor CAr. ?
+A. motor
+B. CAr lights
+C. emergenCy phone
+D. emergenCy exit 
+ANSWER:  B    pp.ANSWER:
+59. The grounD fAult proteCtion system shAll Be testeD when it is _____.?
+A. instAlleD first
+B. energizeD for the first time
+C. inspeCteD
+D.mAnufACtures
+ANSWER:ANSWER:
+60. Where A motor is operAting AnD live pArts of the motor Controller hAve over 150 volts to grounD AnD might Be exposeD to repAirmen whAt must Be Done for its sAfe mAintenAnCe ?
+A. teCh’n must Be present
+B. insulAting mAts shAll Be proviDeD 
+C. InstAlleD DAnger sign
+D.none of these
+ANSWER:  B   
+61.  A junCtion Box useD in A system rAteD 1000 volts shAll hAve A mArking on the Box of ____.?
+A. CAution 
+B. DAnger
+C. Do not open
+D.DAnger High-  VoltAge Keep out   
+ANSWER:
+62. ACCorDing to the P.E.C high voltAge serviCe-entrAnCe ConDuCtors Are proteCteD By A CirCuit BreAker if it hAs ___ the AmpACity of the ConDuCtor for its trip setting.   . ?
+A. 3 times 
+B. 5 times
+C. 6 times
+D. 8 times
+ANSWER:  C  (Ref: 2.30.8.9 pp.ANSWER: 
+63. WhiCh of the following loCAtions is not permitteD for the use of surfACe rACewAys ?
+A. Dry loCAtion
+B. hoistwAys
+C. unDer rAiseD floors
+D. hAzArDous 
+ANSWER:  B   
+64. In A ClAss I Division II loCAtion A ConDuit pAssing through into A nonhAzArDous loCAtion the seAling fitting shAll Be permitteD ____ BounDAry ?
+A. no seAl req’D
+B. on either siDe of the
+C. on Both siDes of the 
+D. At the first fitting 
+ANSWER:  B   (ANSWER: pp.ANSWER:
+65. A BAre Copper ConDuCtor CAn Be useD in An unDergrounD serviCe ____.?
+A. suitABle for soil ConDition
+B. rACewAy
+C. iDentifieD for unDergrounD use
+D. All of the ABove 
+ANSWER:ANSWER:
+66. The grounDing ConDuCtor for CommuniCAtion CirCuits shAll Be ConneCteD to the _____.\n\nl.  metAlliC power rACewAy\nll.serviCe equipment enClosure\nlll.  BuilDing eleCtroDe system?
+A. l only
+B. ll only
+C. ll or lll only
+D. l ll or lll 
+ANSWER:  D   (ANSWER: A-g pp.ANSWER:
+67. A mAin BonDing jumper shAll Be A ____.\n\nl. wire\nll.  sCrew\nlll.  Bus?
+A. l only 
+B. l or ll only
+C. l or lll only
+D. l ll or lll
+ANSWER:  D    pp.20ANSWER:
+68. The eArth shAll not Be ConsiDereD As An effeCtive ______ pAth.?
+A. l only 
+B. l or ll only
+C. l or lll only
+D. l ll or lll
+ANSWER:ANSWER:
+69. EACh reCeptACle of DC plugging Boxes shAll Be rAteD At not less thAn ____ Amps.?
+A. 15 
+B. 20 
+C. 25
+D. 30
+ANSWER:  D  (Ref: 5.30.2.4 pp.20ANSWER:
+70. A proteCtive lAyer whiCh is instAlleD Between the floor AnD type FCC flAt ConDuCtor CABle to proteCt the CABle from physiCAl DAmAge AnD mAy or mAy not Be inCorporAteD As An integrAl pArt of the CABle is the ____.?
+A. trAnsition AssemBly
+B. outer sheAth
+C. Bottom shielD
+D. heADer
+ANSWER:  C  (Ref: 3.24.1.2 pp.ANSWER:
+71. An AreA must Be ClAsseD As A ClAss II hAzArDous loCAtion if it ContAins _____.?
+A. ComBustiBle Dust
+B. ignitABlevApors
+C. flAmmABle gAses
+D. ignitABle fiBers 
+ANSWER:
+72. If the AppliAnCe is proviDeD with A single-pole switChing DeviCe the AttAChment plug shAll Be ___.\n\nl.  of the grounDing type\nll.  polArizeD?
+A. l only 
+B. ll only
+C. l or ll
+D. neither l nor ll 
+ANSWER:
+73. ListeD equipment proteCteD By A system of DouBle insulAtion or its equivAlent shAll not Be requireD to Be grounDeD.  Where suCh A system is employeD the equipment shAll Be ____.?
+A. lABeleD 
+B. ApproveD
+C. DistinCtively mArkeD 
+D. iDentifieD 
+ANSWER:  C  (Ref: 2.50.6.5 ex.  
+74. No premises wiring with A grounDeD ConDuCtor shAll Be eleCtriCAlly ConneCteD to A supply system unless the supply system ContAins ____.?
+A. grounDeD ConDuCtor 
+B. wiring Design
+C. proteCtion 
+D. none of these 
+ANSWER:  A  (Ref: 2.0.1.3 pp.ANSWER:
+75. A mAnufACtureD wiring system shAll hAve reCeptACles thAt Are ____.\n\nl.  uniquely polArizeD\nll.  of the loCking type \nlll.  GFCI
+ A. l  only
+B. ll only
+C. l AnD ll only
+D. l ll AnD lll
+ANSWER:ANSWER: 
+76. For smAll motors the loCkeD-rotor Current shAll Be AssumeD to Be ___ the full-loAD Current.?
+A. 4 
+B. 5
+C. 6
+D. 8 
+ANSWER:  C   (ANSWER: pp.ANSWER:
+77. A CorD ConneCtor thAt is supporteD By A permAnently instAlleD CorD penDAnt shAll Be ConsiDereD A   _____.?
+A. reCeptACle outlet
+B. permAnent CorD
+C. lighting outlet
+D. outlet DeviCe
+ANSWER:  A    pp.ANSWER:
+78. StAge CABles useD in motion piCture stuDios for stAge lighting shAll Be proteCteD By meAns of overCurrent DeviCes set At not more thAn ____ of the vAlues given in the AppropriAte CoDe tABle.?
+A. 500% 
+B. 400%
+C. 200%
+D. 100%
+ANSWER:  B    pp.10ANSWER:
+79. When instAlling A surge Arrester At the serviCe of less thAn 1000 volts the grounDing ConDuCtor shAll Be ConneCteD to ____.\n\nl. the grounDeD serviCe ConDuCtor\nll. the grounDing eleCtroDe ConDuCtor\nIll. the grounD eleCtroDe for the serviCe\nlV. the equipment grounD terminAl in the serviCe equipment ?
+A. l AnD ll only
+B. l AnD lll only
+C. lll AnD lV only
+D. l ll lll or lV
+ANSWER:  D   
+80. ____ of ConDuCtors in rigiD nonmetAlliC ConDuit shAll Be mADe only in junCtion outlet Boxes or ConDuit BoDies.?
+A. spliCes
+B. spliCes AnD tAps
+C. ConneCtions 
+D. none of the ABove 
+ANSWER:  B   
+81. ConneCtion of ConDuCtors to terminAl pArts shAll ensure A thoroughly gooD ConneCtion without DAmAging the ConDuCtors AnD shAll Be mADe By meAns of ____.\n\nl.  spliCes to flexiBle leADs\nll.  pressure ConneCtors\nlll.  solDer lugs                                                             
+A l only
+B. ll only
+C. l AnD ll only
+D. l ll or lll 
+ANSWER:
+82. A nursing home is A BuilDing or pArt thereof useD for the loDging BoArDing AnD nursing CAre on A 24hour BAsis of ____ or more persons.?
+A. 4 
+B. 12
+C. 50
+D. 100
+ANSWER:  A   
+83. WhiCh of the following must Be proviDeD with GFCI  ?
+A. DishwAshers
+B. fountAins 
+C. outDoor lights
+D. refrigerAtors
+ANSWER:  B    pp.ANSWER:
+84. EACh resistAnCe welDer shAll hAve overCurrent primAry proteCtion set At not more thAn ____ perCent.?
+A. 200
+B. 300
+C. 250
+D. 125
+ANSWER:
+85.  3-wAy AnD 4-wAy switChes shAll Be so wireD thAt All switChing is Done in the ____ ConDuCtor. ?
+A. ungrounDeD
+B. grounDeD
+C. neutrAl
+D. grounDing
+ANSWER:ANSWER: 
+86. In CellulAr metAl floor rACewAys All of the following Are true exCept _____. \n\nI. spliCes AnD tAps CAn Be mADe in junCtion Boxes\nII. DisConneCteD outlets Are removeD\nIII. Boxes shAll Be of metAl AnD Continuous w/ the rACewAy\nIV. the ComBineD Cross seCtionAl AreAof All ConDuCtors CAnnot exCeeD 50% ?
+A. I only
+B. II only
+C. III only
+D. IV only 
+ANSWER:  D  (Ref: 3.74.1.5-9 pp.50ANSWER:
+87. Non-shielDeD high-voltAge CABle shAll Be instAlleD in ____ ConDuit enCAseD in not less thAn 76mm of ConCrete.\n\nl.  rigiD PVC \nll.  IMC  \nlll.  rigiD metAl?
+A. l only
+B. ll only
+C. lll only
+D. l ll or lll
+ANSWER:  D    
+88. On solAr photovoltAiC system; AmpACity of ConDuCtors AnD overCurrent DeviCes shAll not Be less thAn ___ perCent of the ComputeD Current.?
+A. 150
+B. 100
+C. 125
+D. 200
+ANSWER:  C    
+89. A run of flexiBle metAl ConDuit mAy Be useD As An equipment grounDing ConDuCtor if the ConDuCtors Are proteCteD At ____. ?
+A. 20A or more
+B. 20A or less
+C. 30A or more
+D. 30A or less
+ANSWER:ANSWER: 
+90. For DeviCes with sCrew shells the terminAl for the ____ ConDuCtor shAll Be the one ConneCteD to the sCrew shell.?
+A. green
+B. grounDeD
+C. ungrounDeD
+D. grounDing
+ANSWER:ANSWER:
+91. ____ is A ComBinAtion Consisting of A Compressor AnD motor Both of whiCh Are enCloseD in the sAme housing with no externAl shAft or shAft seAls the motor operAting in the refrigerAnt.\n\nl.  motor-Compressor  \nll. hermetiC refrigerAnt motor-Compressor \nlll.  Air-ConDitioning equipment ?
+A. l only
+B. ll only
+C. lll only
+D. l ll AnD lll 
+ANSWER:  B   
+92. SupplementAry overCurrent DeviCes shAll not Be requireD to Be ____. ?
+A. ACCessiBle
+B. reADily ACCessiBle
+C. Continuous Duty
+D. ADjustABle
+ANSWER:  B   
+93. All Dwelling unit 125v singlephAse 15 AnD   20 Amp reCeptACles instAlleD in A ____ shAll hAve GFCI proteCtion for personnel.\n\nl.  BAthroom\nll.  CrAwl spACe At or Below grADe level\nlll.  BeDroom ?
+A. l AnD ll only
+B. ll AnD lll only
+C. ll only
+D. l ll AnD lll
+ANSWER:  A   (1-ANSWER: pp.ANSWER:
+94. All eleCtriC spA or hot tuB wAter heAters shAll Be listeD AnD hAve the heAting elements suBDiviDeD into loADs not exCeeDing ___ Amperes AnD proteCteD At not more thAn ___ Amperes. ?
+A. 45  50
+B. 48  60
+C. 40  45
+D. 55  60
+ANSWER:  B   
+95.  CApACitor shAll Be permitteD to Be proteCteD ____.\n\nl.  in groups  \nll.  inDiviDuAlly  ?
+A. l only
+B. ll only
+C. l or ll
+D. neither l nor ll 
+ANSWER:ANSWER:
+96. When serviCe entrAnCe phAse ConDuCtors Are lArger thAn 1100 kCmil Copper the BonDing jumper shAll hAve An AreA not less thAn whAt perCent of the AreA of the lArgest phAse ConDuCtor ?
+A. 6%
+B. 10%
+C. 12  1/2 %
+D. 15% 
+ANSWER:  C    pp.20ANSWER:
+97. SeleCt the CorreCt stAtement thAt pertAins to A generAl purpose 15 Amp outlet thAt is instAlleD in A mArinA.\n\nI. it is in violAtion of the CoDe \nII. it shAll not Be loCAteD less thAn 1500mm meAsureD horizontAlly from the wAter line\nIII. it shAll Be mounteD so thAt wAves will not CreAte A proBlem\nIV. it is requireD By the CoDe to Be proteCteD By GFCI. ?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:ANSWER:
+98. IsolAting switChes over 600v shAll Be proviDeD with A meAns for reADily ConneCting the loAD siDe ConDuCtors to grounD when DisConneCteD from the ____. ?
+A. Current
+B. equipment
+C. serviCe CABle
+D. sourCe of supply 
+ANSWER:  D    pp.ANSWER:
+99. The surge Arrester for serviCe less thAn 1000 volts ConneCteD By Copper ConDuCtor for grounDing eleCtroDe ConDuCtor of the equivAlent grounDing terminAl shAll NOT Be smAller thAn ____. ?
+A. Current
+B. equipment
+C. serviCe CABle
+D. sourCe of supply 
+ANSWER:  D   
+100. The ConstruCtion of metAl CABinet AnD Cutout Boxes shAll Be suCh As to seCure strength AnD rigiDity. If ConstruCteD of unCoAteD sheet steel the metAl thiCkness shoulD NOT Be less thAn?
+A. 1.55 mm
+B. 1.75 mm
+C. 1.00 mm
+D. 1.35 mm
+ANSWER:ANSWER:
+101. A CellulAr ConCrete floor rACewAy’s grounDing ConDuCtor shAll ConneCt the insert reCeptACles to A positive grounD ConneCtion proviDeD on the ____.?
+A. junCtion Box
+B. Cell
+C. fitting
+D. heADer
+10ANSWER:  D  (Ref: 3.72.1.9 pp.50ANSWER:
+102. A CirCuit BreAker shAll Be of suCh Design thAt Any AlterAtion of its ____ will require DismAntling of the DeviCe or BreAking of A seAl for other thAn intenDeD ADjustments.\n\nl.  trip point\nll.  time requireD for its operAtion?
+A. l only
+B. ll only
+C. Both l AnD ll
+D. neither l nor ll
+10ANSWER:  C  (Ref: 2.40.7.3 pp.ANSWER:
+103. In ClAss III Division I AnD 2 loCAtions motors generAtors AnD other rotAting mAChinery shAll Be the following exCept ________.?
+A. totAlly enCloseD pipe ventilAteD
+B. totAlly enCloseD nonventilAteD
+C. totAlly enCloseD fAn CooleD
+D. totAlly enCloseDwAter CooleD
+10ANSWER:  D   
+104. The mAximum overCurrent DeviCe on A BrAnCh CirCuit supplying An ASME rAteD Boiler is ____ Amps.?
+A. 40
+B. 60
+C. 100
+D. 150
+ANSWER:
+105.  A DeviCe supplying running overloAD proteCtion mAy Be shunteD During stArting A motor when it is stArteD _____.?
+A. l only
+B. ll only
+C. Both l AnD ll
+D. neither l nor ll
+ANSWER:  A    pp.ANSWER:
+106. The size of BrAnCh-CirCuit ConDuCtors AnD overCurrent proteCtive DeviCes for eleCtroDe-type Boilers shAll Be CAlCulAteD on the BAsis of ___ perCent of the totAl loAD  ?
+A. 25
+B. 75
+C. 100
+D. 125
+ANSWER:  D   
+107. WhiCh of the following stAtements is/Are true \n\nl. on A grounDeD serviCe the grounDeD serviCe neutrAl shAll not Be smAller thAn the grounDing eleCtroDe ConDuCtor\nII. if A 1000v or less system is grounDeD the grounDeD ConDuCtor must Be run to eACh serviCe?
+A. l  only
+B. ll only
+C. Both l AnD ll
+D. neither l nor ll
+ANSWER:  C    pp.20ANSWER:
+108. MAximum voltAge Between ConDuCtors serving A suBmersiBle pump in A fountAin is ___ volts.?
+A. 150
+B. 250
+C. 300
+D. 600
+ANSWER:  C    pp.ANSWER:
+109. The ____ AnD the BriDge frAme shAll not Be ConsiDereD As eleCtriCAlly grounDeD through the BriDge AnD trolley wheels AnD its respeCtive trACks.?
+A. trolley frAme
+B. trACk
+C. trolley wheels
+D. none of these
+ANSWER:  A  (Ref: 6.10.7.1 pp.ANSWER:
+110. All But whiCh of the following shAll Be Continuous Between CABinets Boxes fittings or other enClosures or outlets \n\nI.  short seCtions of rACewAys useD to proviDe support or proteCtion of CABle AssemBlies\nII.  metAlliC or non-metAlliC rACewAys\nIII.  CABle Armors\nIV. CABle sheAths?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  D  (Ref: 3.12.1.5 pp.ANSWER:
+111. A reCeptACle instAlleD outDoors shAll Be ConsiDereD proteCteD from the weAther By whiCh of the following methoDs \n\nI. loCAteD unDer roofeD open porChes\nII. hAve An enClosure thAt is weAtherproof when the reCeptACle is CovereD\nlll. loCAteD unDer A CAnopy where the reCeptACle is not suBjeCt to wAter run-off.?
+A. I only
+B. II AnD III only
+C. I AnD II only
+D. I II AnD III
+ANSWER:
+112. A Cutout Box instAlleD in A wet loCAtion shAll Be ____.?
+A. rAin-tight
+B. weAther proof
+C. wAter proof
+D. rAin proof
+ANSWER:  B    pp.ANSWER:
+113. EleCtriCAl non-metAlliC tuBing is permitteD ____.\n\nI. ConCeAleD in wAlls floors AnD Ceilings with A 15 minute fire rAting\nll. emBeDDeD in ConCrete proviDeD with ApproveD fitting\nlll.  DireCtly BurieD\nlV.  ABove A suspenDeD Ceiling with A 15 minute fire rAting?
+A. I only
+B. I II AnD IV
+C. I II AnD III
+D. All of the ABove
+ANSWER:  B    
+114. Where shore-power is supplieD reCeptACles rAteD At not less thAn 30 Amperes or more thAn 50 Amperes shAll Be of the ____ type.?
+A. GFCI
+B. loCking & grounDing
+C. tAmperproof
+D. ABle to Be loCkeD in the “off” position
+ANSWER:
+115.  WhiCh of the following pool pArts Are requireD to Be BonDeD together \n\nl. All fixeD metAl pArts within 1500mm of the  insiDe wAlls\nll. All forming shells AnD mounting BrACkets of A no-niChe fixture unless listeD for A low voltAge system\nlll.  All metAl pArts of An unDerwAter\nIV. sounD system?
+A. I only
+B. II only
+C. I AnD II only
+D. I II AnD III
+ANSWER:  D    
+116. When instAlling offiCe furnishings reCeptACle outlets ____ Are loCAteD in lighting ACCessories.?
+A. single-type only
+B. Duplex-type only CAn
+C. shAll
+D. shAll not
+ANSWER: A
+117. ElevAtor shAll hAve A single meAns for DisConneCting All ungrounDeD mAin power supply ConDuCtors for eACh unit; ____.\n\nI. this Does not inCluDe the emergenCy power serviCe if the system is AutomAtiC\nII. this inCluDe the emergenCy power serviCe\nIII. this Does not inCluDe the emergenCy power serviCe\nIV. no elevAtors Are to operAte on emergenCy power systems?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B   
+118. The BrAnCh CirCuit overCurrent DeviCes in emergenCy CirCuits shAll Be ____.\n\nI. of the reset type only\nII. A slow-Blow type\nIII. ACCessiBle to only AuthorizeD personnel\nIV. pAinteD yellow 18.?
+A. I only
+B. II only
+C. III only
+D. III only
+ANSWER:  C  
+119. An eleCtriCAlly operAteD orgAn shAll hAve Both the gen. & motor frAmes grounDeD AnD ____.\n\nI. the generAtor AnD motor shAll Be effeCtively insulAteD from grounD AnD from eACh other\nII. the generAtor AnD motor shAll Be effeCtively insulAteD from grounD\nIII. the generAtor shAll Be effeCtively insulAteD from grounD AnD from the motor Driving it\nIV. Both the generAtor AnD motor shAll hAve DouBle insulAtion?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  C    
+120. CABle trAys inCluDe fittings or other suitABle meAns for _____.\n\nl. temperAture\nll.  eleCtriC Continuity\nlll.  ChAnges in DireCtion AnD elevAtion of runs?
+A. I only
+B. I AnD II only
+C. III only
+D. I AnD III only
+ANSWER:ANSWER:
+121. A rACewAy ContAins 45 CurrentCArrying ConDuCtors.  The AmpACity of eACh ConDuCtor shAll Be reDuCeD ____ perCent.?
+A. 80
+B. 70
+C. 60
+D. 35
+ANSWER:  D    
+122. Multi-ConDuCtor portABle CABles useD to ConneCt moBile equipment AnD mAChinery ABove 2000 volts the ConDuCtors shAll Be ____.?
+A. without grounD
+B. unshielDeD
+C. shielDeD
+D. MK BrAiD
+ANSWER:
+123. A pool pAnelBoArD not pArt of the serviCe equipment shAll hAve A grounDing ConDuCtor instAlleD Between ____.\n\nI. its grounDing terminAl AnD A sepArAte grounD\nII. its grounDing terminAl AnD A grounD roD\nIII. its grounDing terminAl AnD the grounDing terminAl of the serviCe equipment\nIV. its grounDing terminAl AnD BonDing griD?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  C    
+124. In CommuniCAtion CirCuits the BonDing together of All sepArAte eleCtroDes ____.\n\nI.  shAll not Be permitteD\nII. shAll Be permitteD with A minimum size jumper 22 mm2\nIII. shAll Be permitteD with A minimum size jumper 14 mm2\nIV. shAll Be permitteD with A minimum size jumper 8.0 mm2?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:
+125. Open motors with CommutAtors shAll Be loCAteD so spArks CAnnot reACh ADjACent ComBustiBle mAteriAl But this _____.\n\nI. is only requireD for over 600 volt motors\nII. shAll not prohiBit these motors on wooDen floors\nIII. Does not prohiBit these motors from A ClAss I loCAtion\nIV. none of these?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B    
+126. ___ shAll Be ControlleD By An externAlly operABle switCh or BreAker whiCh will open All ungrounDeD ConDuCtors.\n\nl. outline lighting\nll.  signs\nlll.  portABle signs?
+A. I only
+B. II only
+C. III only
+D. I AnD II only
+ANSWER:  D   
+127. A puBliC ADDress system ____.?
+A. is not CovereD in the CoDe
+B. hAs its own CoDe seCtion
+C. is CovereD in the CoDe
+D. none of these
+ANSWER:  C   
+128. ConDuCtors whiCh supply one or  more AC trAnsformers or DC reCtifier ArC welDer shAll Be proteCteD By An overCurrent DeviCe rAteD or set At not more thAn ___ perCent of the ConDuCtor rAting.?
+A. 70
+B. 80
+C. 125
+D. 200
+ANSWER:ANSWER:
+129. The BAttery voltAge ComputeD on the BAsis of ___ volts per Cell for the leAD-ACiD type AnD ____ volts per Cell for the AlkAli type.\n\nI. 1.5 for leAD-ACiD 2.0 for the AlkAli\nII. 2.0 for leAD-ACiD 1.5 for the AlkAli\nIII. 2.0 for leAD-ACiD 1.2 for the AlkAli\nIV. 1.2 for leAD-ACiD 2.0 for the AlkAli?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  C   Ref: 4.80.1.2 
+130. OptionAl stAnDBy systems Are typiCAlly instAlleD to proviDe An AlternAte sourCe of  eleCtriC power for suCh loADs As ____ systems.\n\nl.  CommuniCAtions\nll.  DAtA proCessing\nlll.  refrigerAtion?
+A. III only
+B. I AnD III only
+C. II AnD III only
+D. I II AnD III
+ANSWER:  D   
+131. WhiCh of the following is not A true stAtement ConCerning An equipment grounDing ConDuCtor \n\nI. unDer CertAin ConDitions equipment grounDing ConDuCtors mAy Be requireD to Be lArger thAn CirCuits ConDuCtors\nII. unDer CertAin ConDitions equipment grounDing ConDuCtors mAy Be run in pArAllel\nIII. one size of equipment grounDing ConDuCtors shAll Be inCreAseD to CompensAte for voltAge Drop\nIV.one equipment grounDing ConDuCtor mAy serve multiple CirCuits?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:
+132. In A reCreAtionAl vehiCle whiCh mAjor AppliAnCe other thAn Built-in Does the CoDe ConsiDer portABle if CorD-ConneCteD \n\nl.  refrigerAtor\nll.  Clothes wAshes\nlll.  gAs rAnge equipment?
+A. I only
+B. I AnD II only
+C. II only
+D. I II AnD III
+ANSWER:  D   
+133. Where rigiD PVC ConDuit is useD As A rACewAy system in Bulk storAge plAnt wiring the rACewAy shAll inCluDe ____.\n\nI.  sunlight resistAnt listing\nII.  An equipment grounDing ConDuCtor\nIII.  A Bushing with DouBle loCknuts\nIV.  PVC rACewAy is not permitteD?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B    
+134. All DeviCes exCluDing pAnelBoArDs proviDeD with terminAls for the AttAChment of ConDuCtors AnD intenDeD for ConneCtion to more thAn one siDe of the CirCuits shAll hAve ____ properly mArkeD for iDentifiCAtion.?
+A. ConDuCtors
+B. terminAls
+C. siDes
+D. none of these
+ANSWER:
+135.  A CrAne rAil when useD As A ConDuCtor shAll Be _____.\n\nI. grounDeD By fittings useD for suspension or AttAChment of the rAil\nII. grounDeD By A BonDing ConDuCtor to A wAterpipe\nlll. effeCtively grounDeD At the x’former?
+A. I only
+B. I AnD II only
+C. I AnD III only
+D. II & III only
+ANSWER:  C    
+136. All lights AnD Any reCeptACles ADjACent to the mirror  AnD ABove the Dressing tABle Counters in Dressing rooms of theAters shAll Be ControlleD By wAll switChes instAlleD in the ____.?
+A. Dressing rooms
+B. Control room
+C. projeCtion room
+D. stAge offiCe
+ANSWER:  A   Ref: 5.20.6.3 
+137. ClAss I CirCuits AnD power supply CirCuits shAll Be permitteD to oCCupy the sAme rACewAy only where the equipment powereD is ____.?
+A. low voltAge
+B. A fire AlArm system
+C. funCtionAlly AssoCiAteD
+D. AC/DC
+ANSWER:  C    ANSWER: 
+138. InDuCtion generAting equipment on systems with signifiCAnt ___ mAy BeCome self-exCiteD upon loss of primAry sourCe AnD experienCe severe over-voltAge As A result.?
+A. voltAge
+B. AmperAge
+C. inDuCtion
+D. CApACitAnCe
+ANSWER:  D   
+139. In generAl ClAss II Control CirCuits AnD power CirCuits ____.\n\nl.  mAy oCCupy the sAme rACewAy\nll. shAll Be instAlleD in Different rACewAys?
+A. I only
+B. II only
+C. I AnD II
+D. none of these
+ANSWER:ANSWER:
+140. EleCtriCAl non-metAlliC tuBing is permitteD to Be useD in sizes up to ____.?
+A. 25 mm
+B. 50 mm
+C. 80 mm
+D. 100 mm
+ANSWER:ANSWER:
+141. BeCAuse Aluminum is not A mAgnetiC metAl there will Be ___ present when Aluminum ConDuCtors Are groupeD in A wirewAy.?
+A. no heAt Due to voltAge
+B. no heAting Due to hysteresis
+C. no inDuCeD Currents
+D. none of these
+ANSWER:  B    FPN 
+142. EACh switChBoArD switChBoArD seCtion or pAnelBoArD if useD As serviCe equipment shAll Be proviDeD with ____.\n\nI.   A mAin BonDing jumper\nII.  A power CirCuit\nIII. A BAttery ChArging pAnel\nIV. A 4-wire DeltA ConneCteD system?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  A    
+143. When A Diesel engine is useD As the prime mover of A generAtor to supply emergenCy power how muCh of site fuel is requesteD \n\nI.   one-hAlf hour of fuel supply\nII.  one hour of fuel supply\nIII. two hours of fuel supply\nIV.  three hours of fuel supply?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  C    
+144. Where the premises wiring system hAs feeDers supplieD from more thAn one nominAl voltAge system ungrounDeD ConDuCtor of A feeDer where ACCessiBle shAll Be iDentifieD By meAns of ______.\n\nI. By sepArAte Color CoDing\nII. mArking tApe\nIII. tAgging\nIV. other ApproveD meAns?
+A. I only
+B. II only
+C. III only
+D. I II III & IV
+ANSWER:
+145.  SpliCes AnD tAps shAll not Be loCAteD within fixture ____.?
+A. spliCes Boxes
+B. Arms AnD stems
+C. pAnCAke Boxes
+D. none of these
+ANSWER:ANSWER:
+146. The neutrAl of A soliDly grounDeD neutrAl system shAll Be permitteD to Be grounDeD At more thAn one point for ____.\n\nl.  trAnsformers supplying ConDuCtors to A BuilDing or other struCture\nll. unDergrounD CirCuits where the neutrAl is exposeD\nlll.  overheAD CirCuit instAlleD outDoors?
+A. I only
+B. II only
+C. III only
+D. I II AnD III
+ANSWER:  D    pp. 254
+147. Where extensive metAl in or on BuilDings mAy BeCome energizeD AnD is suBjeCt to personAl ContACt ___ will proviDe ADDitionAl sAfety\n\nI. ADequAte BonDing AnD grounDing\nII.  BonDing\nIII. suitABle grounD DeteCtors\nIV. none of these?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  A   Ref: 5.45.1.11 
+148. Color BrAiD of flexiBle CorD useD to iDentify the use of the grounDeD ConDuCtor shAll Be finisheD to show A ___ Color AnD the BrAiD on the other ConDuCtor or ConDuCtors finisheD to show A reADily DistinguishABle soliD Color or Colors.\n\nl.  white\nll.  green\nlll.  grAy\nlV.  Light Blue?
+A. I AnD II only
+B. II AnD IV only
+C. I AnD III only
+D. III only
+ANSWER:ANSWER:
+149. A three-phAse generAl purpose squirrel CAge motor DrAws A full loAD Current of 40A.  WhAt is the mAximum size of time DelAy fuse thAt mAy Be useD for short CirCuit proteCtion?
+A. 120A
+B. 80A
+C. 40A
+D. 100A
+ANSWER:  B   
+150. WhAt is the mAximum AllowABle voltAge Drop from the mAin CirCuit BreAker to the fArthest lAmp loAD?
+A. 10%
+B. 5%
+C. 2%
+D. 3%
+ANSWER:ANSWER:
+151. SwitChes flAshers AnD similAr DeviCes Controlling trAnsformers shAll Be either rAteD for Controlling inDuCtive loAD  or hAve An Ampere rAting not less thAn ___ the Ampere rAting of the trAnsformer.?
+A. 100%
+B. 125%
+C. 200%
+D. 300%
+ANSWER:
+152. SoliD DieleCtriC insulAteD ConDuCtors operAteD ABove 2000 volts in permAnent instAllAtions shAll hAve ozone-resistAnt insulAtion AnD shAll Be ____.?
+A. CovereD
+B. proteCteD
+C. shielDeD
+D. surfACe mounteD
+ANSWER:  C   Ref: 3.10.1.6 
+153. The AmpACity requirement of xrAy equipment shAll Be BAseD on ___ perCent of the momentAry rAting of the equipment.?
+A. 40
+B. 50
+C. 70
+D. 80
+ANSWER:  B    
+154. A grounDing eleCtroDe ConDuCtor shAll not Be requireD for A system thAt supplies A ____ CirCuit AnD is DeriveD from A trAnsformer rAteD not more thAn 1000 vA.?
+A. ClAss I
+B. ClAss II
+C. ClAss III
+D. All of these
+ANSWER:  D    
+155. Motion piCture projeCtors Are ____.\n\nI. CovereD unDer theAter AnD similAr loCAtions in the CoDe\nII. not CovereD in the CoDe\nIII. CovereD in their own seCtion of the CoDe\nIV. pArt of the seCtion in the CoDe on motion piCture stuDios?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  C   
+156. DC ConDuCtors useD for eleCtroplAting shAll Be proteCteD from overCurrent By ____.\n\nl.  A Current sensing DeviCe whiCh operAtes A DisConneCting meAns\nll.  fuses or CirCuit BreAkers\nlll.  other ApproveD meAns?
+A. II only
+B. I & II only
+C. II & III only
+D. I II & III
+ANSWER:  D   
+157. Equipment hAving An open-CirCuit voltAge exCeeDing ___ volts shAll not Be instAlleD in Dwelling oCCupAnCies.?
+A. 1000
+B. 460
+C. 600
+D. 208
+ANSWER:ANSWER:
+158. Two-wire DC CirCuits useD in DC system grounDing in An integrAteD eleCtriCAl system shAll Be permitteD to Be ____.?
+A. ungrounDeD
+B. uninsulAteD
+C. over 600v
+D. none of these
+ANSWER:  A   
+159. Type USE serviCe entrAnCe CABle iDentifieD for unDergrounD use in A CABleD AssemBly mAy hAve A _____ ConCentriC.?
+A. BAre Copper
+B. CovereD  metAl
+C. BAre Aluminum
+D. CovereD
+ANSWER:  A   Ref: 3.38.3.1 
+160. EACh fixture of eACh seConDAry CirCuit of tuBing for eleCtriC-DisChArge lighting system hAving An open-CirCuit voltAge of 1000 volts shAll hAve CleArly legiBle mArking reADing ____.\n\nl.  CAution 1000 volts\nll.  CAution High VoltAge\nlll.  DAnger High VoltAge?
+A. I only
+B. II only
+C. III only
+D. I II & III
+ANSWER:  A   
+161. A ____ is A proteCtive DeviCe for limiting surge voltAges By DisChArging or BypAssing surge Current AnD it Also prevents ContinueD flow of follow Current while remAining CApABle of repeAting these funCtions.?
+A. surge Arrester
+B. Auto fuse
+C. fuse
+D. CirCuit BreAker
+ANSWER:  A   
+162. Motor BrAnCh-CirCuit short CirCuit AnD grounD fAult proteCtion AnD motor overloAD proteCtion shAll Be permitteD to Be ComBineD in A single proteCtion DeviCe where the rAting or setting of the DeviCe proviDes the ____ proteCtion.?
+A. ComBineD overloAD
+B. overCurrent
+C. overloAD
+D. BrAnCh-CirCuit
+ANSWER:  C   Ref: 4.30.4.5 
+163. For CorD AnD AttAChment plugCorD ConneCteD motor-Compressor AnD equipment on 15 or 20 Ampere BrAnChCirCuits the rAting of the AttAChment plug AnD reCeptACle shAll not exCeeD 20 Amperes At ___ volts or 15 Amperes At ____ volts.?
+A. 250  125
+B. 125  250
+C. 250  250
+D. 125  125
+ANSWER:
+164. The equipment grounDing ConDuCtor in type NM CABle for 15 20 AnD 30 Ampere BrAnCh CirCuits ___.\n\nI. mAy Be At leAst one size smAller thAn the insulAteD CirCuit ConDuCtor\nII. must Be the sAme size As the insulAteD CirCuit ConDuCtors\nIII. is requireD only with Aluminum CABle\nIV. none of these?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:
+165.  ThermoplAstiC insulAtion mAy stiffen At temperAture ColDer thAn minus ____ Degrees C requiring CAre is exerCiseD During instAllAtion At suCh temperAture.?
+A. 5
+B. 10
+C. 15
+D. 30
+ANSWER:  B   
+166. ServiCe heADs for serviCe ConDuCtors shAll Be ____.?
+A. rAin-tight
+B.weAtherproof
+C. rAinproof
+D. wAter-tight
+ANSWER:  A    
+167. A BuilDings shAll Be permitteD to hAve ____ set of serviCe-entrAnCe ConDuCtors whiCh Are tAppeD from one serviCe Drop.?
+A. one
+B. two
+C. two or more
+D. no
+ANSWER:  A   
+168. At whAt Angle Does A heADer AttACh to A floor DuCt ?
+A. pArAllel
+B. strAight
+C. right Angle
+D. none of these
+ANSWER:  C  
+169. Every eleCtriC sign of Any type fixeD or portABle shAll Be ____.?
+A. listeD
+B. ApproveD
+C. permAnently wireD
+D. eleCtriCAlly isolAteD
+ANSWER:  A   
+170. In motion-piCture stuDios feeDer ConDuCts to the stAge mAy Be proteCteD with respeCt to AmpACity At A mAximum vAlue of ____ perCent.?
+A. 200
+B. 250
+C. 400
+D. 500
+ANSWER:  C    
+171. Cells in jArs of ConDuCtive mAteriAls shAll Be instAlleD in trAys of non-ConDuCtive mAteriAls with not more thAn ___ Cells in the series CirCuit.?
+A. 16
+B. 18
+C. 20
+D. 24
+ANSWER:  C    
+172. Signs operAteD By eleCtroniC or eleCtromeChAniCAl Controllers loCAteD externAl to Be sign shAll hAve A DisConneCting meAns loCAteD ____.\n\nI. within sight of sign\nII. within sight of the Controller\nIII. only in the Controller\nIV. only externAl to the Controller?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B    
+173. MetAlliC enClosures of reACtors AnD ADjACent metAl pArts shAll Be instAlleD so thAt the ____ from inDuCeD CirCulAting Currents will not Be hAzArDous to personnel or Constitute A fire hAzArD..?
+A. heAt
+B. ArC
+C. temperAture rise
+D. fumes
+ANSWER:  C    
+174. A 240 volts single-phAse room Air ConDitioner shAll Be ConsiDereD As A single motor unit if its rAting is not more thAn ____ Amps.?
+A. 20
+B. 30
+C. 40
+D. 50
+ANSWER:  C    ANSWER: 
+175. ListeD or lABeleD equipment shAll Be instAlleD useD or Both in ACCorDAnCe with _____.\n\nI. the joB speCifiCAtions\nII. the plAns\nIII. the instruCtions given By the Authority hAving jurisDiCtion\nIV. the instruCtions inCluDeD in the listing or lABeling?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  D    pp.36
+176. WhiCh of the following stAtements ABout the ConneCtion of smAll AppliAnCe reCeptACle outlet At A Dwelling is   CorreCt \n\nI. the refrigerAtor CAn Be pluggeD into it\nII. the outDoor reCeptACle outlet mAyBe ConneCteD to one of the requireD smAll AppliAnCe CirCuits?
+A. I only
+B. II only
+C. Both I AnD II
+D. neither I nor II
+ANSWER:  A    
+177. SiliCone ruBBer insulAteD fixture wire SF-1 shoulD Be limiteD to use where the voltAge Does not exCeeD ___ volts.?
+A. 500
+B. 300
+C. 200
+D. 100
+ANSWER:  B   Ref: TABle 4.2.1.3 
+178. The AmpACity of CApACitor CirCuit ConDuCtors shAll not Be less thAn ___ perCent of the rAteD Current of the CApACitor.?
+A. 100
+B. 125
+C. 135
+D. 150
+ANSWER:ANSWER:
+179. CABles AnD reCeptACles AssoCiAteD with the informAtion teChnology equipment shAll Be permitteD unDer A rAiseD floor proviDeD _____.\n\nI. opening in rAiseD floors for CABles proteCt CABles from ABrAsions\nII. ventilAtion in the unDer-floor AreA is useD only for informAtion teChnology equipment\nlll.  the rAiseD floor is of suitABle ConstruCtion AnD the unDer-floor AreA is ACCessiBle?
+A. I only
+B. II only
+C. III only
+D. I II AnD III
+ANSWER:  D    
+180. When BAre grounDeD ConDuCtors Are useD with insulAteD ConDuCtors their AmpACities Are limiteD to ____.\n\nI.  60 Deg. C\nII.  75 Deg. C\nIII. 90 Deg. C\nIV.  thAt permitteD for the ADjACent insulAteD ConDuCtors?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  D    
+181. Fixtures shAll Be so ConstruCteD or instAlleD thAt ADjACent ComBustiBle mAteriAl will not Be suBjeCteD to temperAture in exCeeD of ____ Degrees C.?
+A. 75
+B. 90
+C. 185
+D. 140
+ANSWER:  B   
+182. Storerooms AnD similAr AreAs ADjACent to AirCrAft hAngArs But effeCtively isolAteD shAll Be DesignAteD ____.\n\nI.  ClAss I Division II\nII. ClAss II Division I\nIII. ClAss II Division II\nIV. shAll not Be ClAssifieD?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  D    
+183. With ConsiDerAtion to moBile homes whiCh of the following mAjor AppliAnCes other thAn Built-in Are not ConsiDereD portABle if CorD ConneCteD ?
+A. refrigerAtors
+B. rAnge equipment
+C. Clothes wAshers
+D. wAter heAter
+ANSWER:  D   Ref: 5.50.1.2 FPN 
+184. Power feeD grounDing ConneCtion AnD shielD system ConneCtion Between the FCC system AnD other wiring systems shAll Be ACComplisheD in A ____.?
+A. trAnsition AssemBly
+B. rACewAy
+C. trenCh
+D. none of these
+ANSWER:
+185.  AuDiBle AnD visuAl signAl DeviCes shAll Be proviDeD where prACtiCABle to inDiCAte ____.\n\nl.  DerAngement of emergenCy sourCe\nll.  thAt the BAttery is not funCtioning\nlll.  thAt the BAttery is CArrying loAD?
+A. I only
+B. II AnD II only
+C. I AnD II only
+D. I II AnD III
+ANSWER:  D    
+186. EACh pAtient BeD in A CritiCAl CAre AreA shAll Be proviDeD with A minimum of ____ reCeptACles .?
+A. one Duplex
+B. single
+C. two Duplex
+D. six
+ANSWER:  D    
+187. ConDuCtors supplying severAl motors shAll hAve An AmpACity equAl to the sum of the full-loAD Current rAting of All the motors plus ___% of the highest rAteD motor in the group?
+A. 25
+B. 80
+C. 100
+D. 125
+ANSWER:  A   
+188. The grounDing eleCtroDe ConDuCtor shAll Be ___ AnD shAll Be instAlleD in one Continuous length without A spliCe or joint.\n\nl.  soliD\nll.  soliD or strAnDeD\nlll.  insulAteD CovereD or BAre?
+A. I only
+B. I AnD III
+C. II AnD III
+D. II only
+ANSWER:  C   
+189. BrAnCh CirCuits supplying two or more outlets for fixeD spACe heAting equipment in A Dwelling shAll Be rAteD At ____ Amperes.?
+A. 15-20-25-30
+B. 15-20-30-40
+C. 15-20-30
+D. 20-30-40
+ANSWER:  A    
+190. FielD BenDs or moDifiCAtions shAll Be so mADe thAt the ____ of the CABle trAy system AnD support for the CABles shAll Be mAintAineD.?
+A. temperAture
+B. eleCtriCAl Continuity
+C. strength
+D. rigiDity
+ANSWER: A.
+191. ProteCtion shAll Be proviDeD for exposeD ConDuCtors AnD equipment During proCess of mAnufACturing ___ At the BuilDing site.\n\nl.  ereCtion\nll.  in trAnsit\nlll.  pACkAging?
+A. I only
+B. II only
+C. III only
+D. I II AnD III
+ANSWER:  D 
+192. The worDs “thermAlly proteCteD” AppeAring on the nAmeplAte of A motor or motor Compressor inDiCAte thAt the motor is proviDeD with A _____.?
+A. fuse
+B. BreAker
+C. thermAl proteCtor
+D. switCh
+ANSWER:  C      
+193. ConDuCtor overloAD proteCtion is not requireD if ____.\n\nI. ConDuCtors Are oversizeD By 125%\nII. ConDuCtors Are pArt of A limiteDenergy CirCuit\nIII. interruption of the CirCuit CAn CreAte A hAzArD\nIV.  none of the ABove?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:
+194. EleCtriCAl instAllAtions in hollow spACes vertiCAl shAfts AnD ventilAtion or Air-hAnDling DuCts shAll Be so mADe thAt the possiBle spreAD of fire or proDuCts of ComBustion will not Be ____.?
+A. suBstAntiAlly inCreAseD
+B. AlloweD
+C. exposeD
+D. unDerrAteD
+ANSWER:  A   
+195. A BrAnCh CirCuit feeDing A sign whiCh hAs A ComBinAtion of lAmps AnD trAnsformers shAll not exCeeD the rAting of ____ Amps.?
+A. 15
+B. 20
+C. 30
+D. 50
+ANSWER:  B    
+196. KnoB AnD tuBe wiring spliCes shAll Be ____ unless ApproveD DeviCes Are useD.?
+A. tApeD
+B. BolteD
+C. ClAmpeD
+D. solDereD
+ANSWER:  D    
+197. EACh CommerCiAl BuilDing AnD eACh CommerCiAl oCCupAnCy ACCessiBle to peDestriAns shAll hAve At leAst one outsiDe sign outlet BrAnCh CirCuit rAteD At ____ Amps.?
+A. 15
+B. 20
+C. either A or B
+D. neither A nor B
+ANSWER: D
+198. In wiring using rigiD metAl ConDuits ConDuit smAller thAn ____ shAll not Be useD.?
+A. 15 mm
+B. 32 mm
+C. 8 mm
+D. 25 mm
+ANSWER:  A   
+199. The uses of non-metAlliC extensions Are NOT AlloweD in All But one of the following.  WhiCh one is this \n\nI. in unfinisheD BAsements AttiCs or roof spACes\nII. where exposeD to Corrosive vApors\nIII. where suBjeCt to Corrosive vApor\nIV. through floors or pArtitions?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B    3.82.2.3 
+200. Determine the minimum AppliAnCe AnD lAunDry loAD requireD for A Dwelling unit\n\nI. 4000 volt-Ampere\nII. 1500 volt-Ampere\nIII. 3000 volt-Ampere\nIV. 2000 volt-Ampere?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER: C
+201. AC CirCuits of less thAn 50 volts shAll Be grounDeD unDer whiCh of the following \n\nI. where instAlleD As overheAD ConDuCtors outsiDe of BuilDings\nII. where supplieD By trAnsformers if the trAnsformer supply system is ungrounDeD\nlll.  where supplieD By trAnsformers if the trAnsformer supply system exCeeDs 250v to grounD?
+A. I only
+B. II only
+C. III only
+D. I II or III
+ANSWER:
+202. DistriBution system for moBile home pArks shAll Be ____.\n\nI. 120/240v three-phAse\nII. 120/208v three-phAse\nIII. 120/240v single-phAse\nIV. 115/230v single-phAse?
+A. I only
+B. II only
+C. III only
+D. IV only
+20ANSWER:  D    5.50.3.1 
+203. MetAl oxiDe surge Arrester rAtings Are BAseD on the mAgnituDe AnD DurAtion of overvoltAge At the Arrester loCAtion As AffeCteD By ____.\n\nl.  switChing surges\nll. System grounDing teChniques\nlll.  phAse-to-grounD fAults?
+A. l only
+B. ll only
+C. lll only
+D. l ll AnD lll
+ANSWER:
+204. ___ DeviCes proviDing equivAlent overCurrent proteCtion in CloseD-loop power DistriBution systems shAll Be permitteD As A suBstitute for fuses or CirCuit BreAkers.?
+A. ApproveD
+B. listeD
+C. ACCessiBle
+D. AutomAtiC
+20ANSWER:  B    
+205. A unit or AssemBly of units or seCtions AnD AssoCiAteD fittings forming A rigiD struCturAl system useD to seCurely fAsten or support CABles AnD rACewAys is A ___.?
+A. flAt CABle AssemBly
+B. wirewAy
+C. multi-outlet AssemBly
+D. CABle trAy system
+ANSWER:  D   
+206. ___ is the DistAnCe meAsureD Along the enClosure wAll from the Axis of the Centerline of the terminAl to A line pAssing through the Center of the opening in the enClosure.?
+A. offset
+B. rADius
+C. Center point
+D. none of these
+ANSWER:  A    
+207. All of the following ABout pArAlleling ConDuCtors Are true exCept ____.\n\nI. must terminAte in the sAme mAnner\nII. must Be sAme mAteriAl\nIII. must Be sAme length\nIV. must Be enCloseD in the sAme rACewAy?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  D
+208. MI CABle BenDs in the rADius of the inner eDge of Any BenD shAll not Be less thAn ___ times the externAl DiAmeter of the metAlliC sheAth for CABle not more thAn 25mm in externAl DiAmeter.?
+A. 10
+B. 11
+C. 12
+D. 13
+ANSWER:  A   
+209. Nonpower-limiteD fire proteCtive signAling CirCuits shAll ____.\n\nI.   not Be more thAn 600 volts\nll.  not exCeeD 7 Amps overCurrent proteCtion for 0.75 ConDuCtor\nlll.  Be permitteD in sAme rACewAy whether AC or DC Current?
+A. l only
+B. l AnD ll only
+C. ll only
+D. l ll AnD lll
+ANSWER: D
+210. ConCeAleD knoB-AnD-tuBe wiring shAll not Be useD in the hollow spACe of wAlls Ceilings AnD AttiCs where suCh spACes ____.\n\nI. exCeeD 30 Degrees C\nII. Are insulAteD By loose or rolleD insulAtion mAteriAl\nIII. Are not fire rAteD for 3 hours\nIV. Are not ventilAteD?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER: B
+211. FixeD eleCtriC spACe heAting equipment requiring supply ConDuCtors with over ____ insulAtion shAll Be CleArly AnD permAnently mArkeD.?
+A. 60 oF
+B. 75 oC
+C. 60 oC
+D. 90 oC
+ANSWER:  C    4.24.2.3 
+212. All Boxes AnD enClosures for emergenCy CirCuits shAll Be mArkeD so they will Be ___ As A Component of An emergenCy CirCuit.?
+A. reADily iDentifieD
+B. reCognizeD
+C. eAsily sighteD
+D. ClAssifieD
+ANSWER:  A    
+213. The rAting of An ADjustABle trip CirCuit BreAker hAving ___ meAns for ADjusting the Current setting   shAll Be the mAximum setting possiBle.?
+A. externAl
+B. An isolAteD
+C. reADily ACCessiBle externAl
+D. ACCessiBle
+ANSWER: A
+214. EACh seCtion pAnel or strip CArrying A numBer of infrAreD lAmpholDers shAll Be ConsiDereD A   ____.?
+A. light fixture
+B. AppliAnCe
+C. reCeptACle
+D. outlet
+ANSWER:  B   
+215. Only wiring methoDs Consisting of ___ shAll Be instAlleD in DuCts or plenums useD for environmentAl Air.\n\nl.  EMT\nll.  type NMC\nlll.  type MI\nlV.  flexiBle metAlliC CABle?
+A. l AnD ll only
+B. l ll AnD lll only
+C. l lll AnD lV only
+D. l ll lll AnD  lV
+ANSWER: C
+216. For emergenCy systems the Authority hAving jurisDiCtion shAll ConDuCt or witness A test on the Complete system upon instAllAtion AnD perioDiCAlly AfterwArD.  A ___ shAll keep of suCh tests.?
+A. report
+B. log
+C. written reCorD
+D. ChArt
+ANSWER:  C    
+217. The serviCe ConDuCtors shAll Be ConneCteD to the serviCe DisConneCting meAns By ____ or other ApproveD meAns.\n\nl.  ClAmps\nll.  Pressure ConneCtors?
+A. l only
+B. ll only
+C. Both l AnD ll
+D. neither l or ll
+ANSWER:  C   
+218. InDiviDuAl showCAses other thAn fixeD shAll Be permitteD to Be ConneCteD By flexiBle CorD to permAnently instAlleD reCeptACles.  The instAllAtion shAll Comply with whiCh of the following \n\nI. the wiring will not Be exposeD to meChAniCAl DAmAge\nII. AttAChment plugs shAll Be of A listeD grounDing type 15 or 20 Amps.\nlll. flexiBle CorD shAll Be hArD-serviCe type?
+A. I only
+B. II only
+C. III only
+D. I II AnD III
+ANSWER: D
+219. The prime mover of An emergenCy generAtor set ____.\n\nI. must Be proviDeD with An AutomAtiC meAns for stArting\nII. must Be proviDeD with An AutomAtiC meAns of trAnsferring from one fuel supply to Another where DuAl supplies Are useD\nlll. must hAve An on-site fuel supply suffiCient to operAte the prime mover At full DemAnD for 2 hours?
+A. I only
+B. II only
+C. III only
+D. I II AnD III
+ANSWER: D
+220. The following pool equipment shAll Be grounDeD ___.\n\nl.  grounD-fAult CirCuit-interrupters\nll.  TrAnsformer enClosures\nlll.  eleCtriC equipment loCAteD within 1500mm of the insiDe wAll of the pool?
+A. lll only
+B. ll AnD lll only
+C. ll only
+D. l ll AnD lll
+ANSWER:  D   
+221. Any motor AppliCAtion shAll Be ConsiDereD As ___ unless the nAture of the AppArAtus it Drives is suCh thAt the motor will not operAte Continuously with loAD unDer Any ConDition of use.?
+A. short-time Duty
+B. vArying Duty
+C. Continuous Duty
+D. perioDiC Duty
+ANSWER: C
+222. In All CAses the work spACe in front of eleCtriCAl equipment shAll permit At leAst A ___ Degree opening of equipment Doors or hingeD pAnels.?
+A. 60
+B. 90
+C. 120
+D. 180
+ANSWER:  B   
+223. The PEC Covers _____.\n\nl.  eleCtroniC orgAns\nll.  SpeeCh-input systems\nlll.  AuDio signAl generAtion?
+A. l only
+B. ll only
+C. lll only
+D. l ll AnD lll
+ANSWER:  D   
+224. The proteCtive DeviCes shAll Be CApABle of DeteCting AnD interrupting All vAlues of Current whiCh CAn oCCur At their loCAtion in exCess of their trip setting or ___.\n\nl.  Boiling point\nll.  Melting point\nlll.  CApACity?
+A. l only
+B. ll only
+C. lll only
+D. l ll AnD lll
+ANSWER: B
+225. A system of two-wire DC operAting At greAter thAn 50v But not greAter thAn 300 volts shAll ____.?
+A. not Be grounDeD
+B.Be grounDeD
+C. not Be permitteD
+D. not Be requireD to Be grounDeD
+ANSWER: B
+226. MoBile x-rAy equipment is mounteD on A ____ BAse with wheels AnD/or CAsters for moving while Completely AssemBleD.?
+A. portABle
+B.trAnsportABle
+C. permAnent
+D. temporAry
+ANSWER:  C 
+227. An AskArel-insulAteD trAnsformer instAlleD in A poorly ventilAteD plACe shAll Be furnisheD with ___.\n\nl. A meAns for ABsorBing Any gAses generAteD By ArCing insiDe the CAse\nll. the pressure-relief vent shAll Be ConneCteD to A flue thAt will CArry suCh gAses outsiDe the BuilDing\nlll. the pressure-relief vent shAll Be ConneCteD to  Chimney thAt will CArry suCh gAses outsiDe the BuilDing.?
+A. I or II only
+B. I or III only
+C. I only
+D. I II or III
+ANSWER:  D   
+228. StorAge BAtteries for Diesel engine Drives for fire pumps shAll Be ___mm ABove the floor.?
+A. 300
+B. 500
+C. 400
+D. 600
+ANSWER: A
+229. The terminAls of An eleCtriCDisChArge lAmp shAll Be ConsiDereD energizeD where Any lAmp terminAl is ConneCteD to A CirCuit of over ____ volts.?
+A. 100
+B. 200
+C. 300
+D. 500
+ANSWER:  C    
+230. LegAlly requireD stAnDBy systems Are typiCAlly instAlleD to serve loADs suCh As ___.\n\nl.  sewerAge DisposAl\nll.  DAtA proCessing\nlll.  refrigerAtion systems?
+A. l AnD ll only
+B. ll AnD lll only
+C. l AnD lll only
+D. l ll AnD lll
+ANSWER:  C
+231. CAses of frAmes of Current trAnsformers the primAries of whiCh Are not over 150 volts to grounD AnD whiCh Are useD exClusively to supply Current to meters ___.?
+A. neeD to Be grounDeD
+B. neeD to Be isolAteD
+C. neeD to Be insulAteD
+D. neeD not Be grounDeD
+ANSWER:  D   
+232. ______ shAll Be permitteD to Be instAlleD in ConCrete in DireCt ContACt with the eArth or in AreAs suBjeCt to severe Corrosive influenCes where proteCteD By Corrosion proteCtion AnD juDgeD suitABle for the ConDition.?
+A. PVC
+B. CerAmiC
+C. orAngeBurg
+D. rigiD metAl ConDuit
+ANSWER:  D   
+233. ConneCtions from heADers to CABinets AnD other enClosures in CellulAr ConCrete floor rACewAys shAll Be mADe By meAns of ____ rACewAys AnD ApproveD fittings.?
+A. rigiD non-metAlliC
+B. metAl listeD
+C. non-metAlliC
+D. All of these
+ANSWER:  B  
+234. The minimum size ConDuCtor permitteD in pArAllel for elevAtor lighting is ____ mm2 proviDeD the AmpACity is equivAlent to A ____ mm wire.?
+A. 0.50; 2.0
+B. 0.80; 2.0
+C. 0.80; 1.6
+D. 1.25; 2.0
+ANSWER:  A    
+235.  TrAnsformers rAteD over ___ KV shAll Be instAlleD in A vAult.?
+A. 10
+B. 12  1/2
+C. 25
+D. 35
+ANSWER:ANSWER:
+236. The neutrAl of feeDers supplying soliD-stAte 3-phAse 4-wire Dimming systems shAll Be ConsiDereD A ___ ConDuCtor.?
+A. CurrentCArrying
+B. non-CurrentCArrying
+C. BAlAnCeD
+D. isolAteD
+ANSWER:  A    
+237. When Determining the loAD on the “volt-Amps per squAre meter” BAsis the floor AreA shAll Be ComputeD from the ____ Dimensions of the BuilDing.?
+A. insiDe
+B. outsiDe
+C. either A or B
+D. neither A or B
+ANSWER:  B   
+238. LoCAtions where ComBustiBle Dust is normAlly in heAvy ConCentrAtions Are DesignAteD As ____.?
+A. ClAss I Division II
+B. ClAss II Division I
+C. ClAss II Division II
+D. ClAss III Division I
+ANSWER:  B    
+239. WhiCh of the following is not A stAnDArD ClAssifiCAtion for A BrAnCh CirCuit supplying severAl loADs ?
+A. 20 Amp
+B. 25 Amp
+C. 30 Amp
+D. 50 Amp
+ANSWER:  B   
+240. The  minimum size ConDuCtor for lighting elevAtor CirCuits trAveling CABles is ____ mm.?
+A. 1.25
+B. 2.0
+C. 3.5
+D. 0.75
+ANSWER:  B    
+241.  Steel CABle trAys shAll Be useD As equipment grounDing ConDuCtors for CirCuits proteCteD thAt CABle trAy & fittings shAll Be ______.\n\nI. iDentifieD for grounDing purposes.\n\nII. legiBly & DurABly mArkeD\n\nIII. BonDeD?
+A. I & III
+B. I II & IV
+C. II & III
+D. I II & III
+ANSWER:
+242. Where storAge BAtteries Are useD for emergenCy systems they shAll Be ____.\n\nI. proviDeD with AutomAtiC BAttery ChArging meAns\nII. AlkAli or ACiD type\nIII. neither I nor II\nIV. Both I AnD II?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER: D
+243. No grounDeD ConDuCtor shAll Be AttACheD to Any terminAl or leAD so As to reverse DesignAteD ___.?
+A. phAse
+B. Angle
+C. polArity
+D. line
+ANSWER:  C   
+244. For BAnks AnD offiCe BuilDings the reCeptACle loADs shAll Be CAlCulAteD to Be the lArger of _____.?
+A. 9 vA/m
+B. 8 vA/m
+C. 11 vA/m
+D. 10 vA/m
+ANSWER:  C 
+245.  If A proteCtive DeviCe rAting is mArkeD on An AppliAnCe the BrAnCh CirCuit over-Current DeviCe rAting shAll not exCeeD ____ the proteCtive DeviCe rAting mArkeD on the AppliAnCe.?
+A. At All
+B. more thAn 50%
+C.  80%
+D. 125%
+ANSWER:  A    
+246. Unless iDentifieD for use in the operAting environment  no ConDuCtors or equipment shAll Be loCAteD in ____ hAving  DeteriorAting effeCt on the ConDuCtors or equipment.\n\nl.  DAmp or wet loCAtion\nll.  where exposeD to gAses fumes vApors liquiDs or other Agents?
+A. l only
+B. ll only
+C. l AnD ll
+D. none of these
+ANSWER: C   
+247. A stAge switChBoArD thAt is not Completely enCloseD DeAD-front AnD DeAD-reAr or reCesseD into A wAll shAll Be proviDeD with ____ extenDing the full length of the BoArD to proteCt All equipment on the BoArD from fAlling oBjeCts.?
+A. Cover
+B. guArD
+C. mesh net
+D. metAl hooD
+ANSWER:  D   
+248. ServiCe entrAnCe CABles where suBjeCt to physiCAl DAmAge shAll Be proteCteD in ____.\n\nl.  EMT\nll.  IMC\nlll.  rigiD metAl ConDuit?
+A. lll only
+B. ll AnD lll
+C. l ll AnD lll
+D. l AnD lll
+ANSWER: C
+249. All BuilDings or portions of BuilDings or struCture DesigneD or intenDeD As A plACe of AssemBly shAll hAve ____ or more persons.?
+A. 50
+B. 100
+C. 250
+D. 500
+ANSWER: B 
+250. ___mm2  AnD lArger grounDing eleCtroDe ConDuCtors shAll Be proteCteD where exposeD to severe physiCAl DAmAge.?
+A. 22
+B. 30
+C. 14
+D. 8.0
+ANSWER: A
+251.   The following letter suffixes shAll inDiCAte the following: ____ for two insulAteD ConDuCtors lAiD pArAllel within An outer non-metAlliC Covering.?
+A. D
+B. M
+C. R
+D. N
+ANSWER: A
+252. When DerAting the AmpACity of multi-ConDuCtor CABles to Be instAlleD in CABle trAy the AmpACity DurAtion shAll Be BAseD on ____.\n\nl.  the totAl numBer of Current CArrying ConDuCtors in the CABle trAy\nll.  the totAl numBer of Current CArrying ConDuCtors in the CABle.?
+A. l only
+B. ll only
+C. either l or ll
+D. Both l AnD ll
+ANSWER:  D    
+253. In grounDeD system the ConDuCtor thAt ConneCts the CirCuit grounDeD ConDuCtor At the serviCe AnD/or the equipment grounDing ConDuCtor to the grounDing eleCtroDe is CAlleD the ____.\n\nI. mAin grounDing ConDuCtor\nII. Common mAin grounDing ConDuCtor\nIII. equipment grounDing ConDuCtor\nIV. grounDing eleCtroDe ConDuCtor?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  D    
+254. UnDergrounD CABle instAlleD unDer A BuilDing shAll Be in A rACewAy thAt is ____.\n\nI.  enCAseD\nII. extenDeD BeyonD the outsiDe wAlls of A BuilDing\nIII. BurieD At leAst 150mm\nIV.  not BurieD more thAn 300mm?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B    
+255. The overAll Covering for type NMC CABle shAll Be ____.\n\nl.  flAme retArDAnt\nll.  moisture resistAnt\nlll.  fungus resistAnt\nlV.  Corrosion resistAnt\nV.  All of these?
+A. ll AnD lll
+B. l AnD lll
+C. ll lll AnD lV
+D. V
+ANSWER:ANSWER:
+256. WhiCh of the following Are not ClAssifieD pAtient CAre AreAs \n\nl.  DAy rooms\nll.  lounges\nlll. Business offiCes?
+A. ll only
+B. ll AnD lll only
+C. lll only
+D. l ll AnD lll
+ANSWER:  D    5.17.1.2 FPN 
+257. The neutrAl feeDer ConDuCtor must Be CApABle of CArrying the mAximum ____ loAD.?
+A. ConneCteD
+B. unBAlAnCeD
+C. DemAnD
+D. grounDeD
+ANSWER: B
+258. For strAight pulls the length of the Box shAll Be not less thAn ___ the outsiDe DiAmeter over sheAth of the lArgest ConDuCtor or CABle entering the Box on system over 600 volts.?
+A. 8 times
+B. 6 times
+C. 36 times
+D. 48 times
+ANSWER: D
+259. ExpAnsion joints AnD telesCoping seCtions of rACewAy shAll Be mADe eleCtriCAlly Continuous By equipment ____ or other meAns ApproveD for the purpose.?
+A. grounDing ConDuCtors
+B. grounDeD ConDuCtor
+C. BonDing jumpers
+D. none of these
+ANSWER:  C   
+260. SeAling CompounD is employeD with minerAl-insulAteD CABle in A ClAss I loCAtion for the purpose of ____.\n\nI. preventing pAssAge of gAs or vApor\nII. exCluDing moisture\nIII. limiting A possiBle explosion\nIV. preventing esCApe of powDer.?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B    5.1.2.6 
+261. The mAximum AllowABle numBer of overCurrent DeviCe in A lighting & AppliAnCe BrAnCh CirCuit pAnel BoArD shAll Be ____.?
+A. 38
+B. 30
+C. 42
+D. 48
+ANSWER:  C   
+262. The CoDe proviDes thAt unshielDeD leAD-in ConDuCtors of AmAteur trAnsmitting stAtions shAll CleAr the BuilDing surfACe whiCh is wireD over By A DistAnCe not less thAn ____ mm.?
+A. 75
+B. 100
+C. 125
+D. 150
+ANSWER:  A    8.10.3.4 
+263. Floor Boxes shAll Be ConsiDereD to meet the requirement of the spACing reCeptACles on wAlls if they Are ____.?
+A. w/in 600mm of the wAll
+B. w/in 450mm of the wAll
+C. Close to the wAll
+D. none of these
+ANSWER:  B    ANSWER: 
+264. For generAl wiring in ClAss I Division I loCAtions it is permissiBle to use _____.?
+A. rigiD metAl ConDuit
+B. EMT
+C. flexiBle metAl ConDuit
+D. All of these
+ANSWER:
+265.  In CloseD ConstruCtion in A mAnufACtureD BuilDing CABles shAll Be permitteD to Be seCureD only At CABinets Boxes or fittings where ____ or smAller ConDuCtors Are useD AnD proteCteD As requireD.?
+A. 3.5 sq.mm
+B. 5.5 sq.mm
+C. 8.0 sq.mm
+D. 2.0 sq.mm
+ANSWER:  B    
+266. In A CommerCiAl gArAge the pit shAll Be ClAssifieD ___ unless provisions Are mADe for six Air ChAnges per hour.?
+A. ClAss I Division II
+B. ClAss II Division II
+C. ClAss II Division I
+D. ClAss I Division I
+ANSWER:  A    
+267. GrounD ClAmps shAll Be ApproveD for generAl use without proteCtion or shAll Be proteCteD ____.\n\nl.  By enClosing in wooD\nll.  By enClosing in metAl\nlll.  By equivAlent proteCtive Covering?
+A. ll only
+B. ll AnD lll only
+C. l AnD lll only
+D. l ll AnD lll
+ANSWER:  D   
+268. EACh DoorwAy leADing into A vAult from the BuilDing interior shAll Be proviDeD with A tight fitting Door hAving A minimum fire rAting of ____ hours.?
+A. 2
+B. 4
+C. 5
+D. 3
+ANSWER: D
+269. AuxiliAry equipment for eleCtriCDisChArge lAmps shAll Be enCloseD in non-ComBustiBle CAses AnD ___.?
+A. not over 75mm AwAy
+B. not over 1500w
+C.  treAteD As sourCe of heAt
+D. none of these
+ANSWER:  C    
+270. TAp ConDuCtors for householD Cooking equipment supplieD from A 50 Amp BrAnCh CirCuit shAll hAve An AmpACity of not less thAn ____.?
+A. 50
+B. 70
+C. 20
+D. 80
+ANSWER:  C    
+271.  The AmpACity for the supply ConDuCtors for A resistAnCe welDer with A Duty CyCle of 15% AnD A primAry Current of 21 Amps is ____ Amps.?
+A. 9.45
+B. 8.19
+C. 6.72
+D. 5.67
+ANSWER:  B    
+272. TAp ConDuCtors in A metAl rACewAy for reCesseD fixture ConneCtions shAll Be limiteD to ___ mm in length.?
+A. 1200
+B. 1500
+C. 1800
+D. 1250
+ANSWER:  C    
+273. The numBer of squAre feet thAt eACh mADe plAte eleCtroDe shoulD present to the soil is ____.?
+A. 6
+B. 4
+C. 2
+D. 8
+ANSWER:
+274. An AutotrAnsformer stArter shAll proviDe ___.\n\nl.  An “off position”\nll.  A running position\nlll.  At leAst one stArting position?
+A. l only
+B. ll only
+C. l AnD ll only
+D. l ll AnD lll
+ANSWER:  D    
+275. Non-metAlliC CABinets in A wet loCAtion shAll Be permitteD ___ AirspACe Between ConCrete mAsonry tile or similAr wAll.?
+A. to Be instAlleD without
+B. no
+C. enough
+D. none of these
+ANSWER:  A    exC. 
+276. The ConneCtion of A grounDing eleCtroDe ConDuCtor to A Driven grounD roD is ____.\n\nI. requireD to Be visiBle\nII. requireD to Be ACCessiBle\nIII. requireD to Be reADily ACCessiBle\nIV. not requireD to Be ACCessiBle?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B    
+277. The mAximum rAting of A plug fuse is ____ Amps.?
+A. 20
+B. 30
+C. 15
+D. 40
+ANSWER:  C    
+278. A Controller for A motorCompressor serving more thAn one motor-Compressor AnD other loADs shAll hAve ____.\n\nI.  A Continuous Duty F.L.C. rAting\nII. A loCkeD-rotor Current rAting not less thAn the ComBineD loAD?
+A. l only
+B. ll only
+C. either l or ll
+D. Both l AnD ll
+ANSWER: D
+279. A multi-wire BrAnCh CirCuit mAy supply ____.\nl.  only one utilizAtion equipment\nll. ungrounDeD ConDuCtors thAt Are openeD simultAneously?
+A. l only
+B. ll only
+C. Both l AnD ll
+D. neither l nor ll
+ANSWER: C
+280. In An inDustriAl CommerCiAl BuilDing where the ACtuAl numBers of generAl purpose reCeptACle outlets Are unknown An ADDitionAl loAD of _____ volt-Amps per squAre meter shAll Be inCluDeD in the loAD CAlCulAtion.?
+A. 8
+B. 4
+C. 0
+D. 2
+ANSWER:  C   
+281. The BrAnCh CirCuit ConDuCtors to one or more units of A DAtA proCessing system shAll hAve An AmpACity of whAt perCent of the totAl ConneCteD loAD ?
+A. 80
+B. 100
+C. 125
+D. 200
+ANSWER:  C    
+282. When A Controller is not within sight from the motor loCAtion the DisConneCt shAll Be CApABle of Being ___ in the open position.?
+A. up
+B. Down
+C. loCkeD
+D. shut-off
+ANSWER:
+283. Single ConDuCtors in A CABle trAy shAll Be seCurely BounD in CirCuit groups to prevent ____ Due to fAultCurrent mAgnetiC forCes unless single ConDuCtors Are CABleD together suCh As triplexeD AssemBlies.?
+A. Current unBAlAnCe
+B. inDuCtive reACtAnCe
+C. exCessive movement
+D. voltAge surges
+ANSWER:  C    
+284. ClAss II hAzArDous loCAtion is where ____.\n\nI. gAses AnD vApors Are present\nII. ComBustiBle Dust is present\nIII. fiBers AnD flying Are present\nIV. rADioACtive mAteriAls is present?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:
+285. A trAnsverse metAl rACewAy for eleCtriC ConDuCtors furnishing ACCess to preDetermineD Cells of A preCAst CellulAr ConCrete floor whiCh permits instAllAtion of ConDuCtors from A DistriBution Center to the floor Cells is CAlleD ____.?
+A. An unDerflow rACewAy
+B. A heADer
+C. A CellulAr rACewAy
+D. A mAnDrel
+ANSWER:  B    3.72.1.2 
+286. The serviCe DisConneCting meAns shAll Be instAlleD At A reADily ACCessiBle loCAtion either outsiDe of A BuilDing or struCture or insiDe ____ of the serviCe ConDuCtors.?
+A. neArest the point of entrAnCe
+B. the Box
+C. 1500mm DistAnCe
+D. none of these
+ANSWER:  A    ANSWER: 
+287. WhiCh of the following stAtements ABout MI CABle is CorreCt \n\nI. it mAy Be useD in Any hAzArDous loCAtion\nII. A single run of CABle shAll not ContAin more thAn the equivAlent of 4 quArter BenDs\nIII. it shAll Be seCurely supporteD At intervAls not exCeeDing 3 meters\nIV. it mAy Be mounteD flush on supporting surfACes in A wet loCAtion?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  A   
+288. ReCeptACles loCAteD over ___ mm ABove the floor Are not CounteD in the requireD numBer of reCeptACles Along the wAll.?
+A. 650
+B. 450
+C. 500
+D. 300
+ANSWER:  B    ANSWER: pp. 84
+289. The mAximum size of reCeiving stAtion outDoor AntennA ConDuCtor where the spAn is ___ m shAll Be At leAst ___ squAre mm if A Copper-ClAD steel ConDuCtor is useD.?
+A. 45 2.0
+B. 10 3.5
+C. 10 2.0
+D. 45 3.5
+ANSWER: A
+290. The minimum thiCkness of the seAling CompounD in ClAss I Division I AnD II loCAtions shAll not Be less thAn the trADe size of the ConDuit AnD in no CAse less thAn ____ mm.?
+A. 22
+B. 16
+C. 30
+D. 18
+ANSWER:  B    
+291. Multi-outlet AssemBly mAy Be useD ____.?
+A. where ConCeAleD
+B. in hoistwAys
+C. in Dry loCAtion
+D. in storAge BAttery rooms
+ANSWER:  C    
+292. The rAting of the surge Arrester shAll Be ___ the mAximum Continuous phAse-to-grounD power frequenCy voltAge.\n\nl.    equAl to\nll.  less thAn\nlll.  greAter thAn?
+A. l only
+B. l or ll
+C. l or lll
+D. ll only
+ANSWER:  C    
+293. WhiCh of the following is An ACCeptABle wiring methoD for the forming shell for unDergrounD sounD equipment \n\nl.  rigiD metAl ConDuit\nll. IMC BrAss\nlll.  EMT\nIV.  RigiD nonmetAlliC ConDuit?
+A. l only
+B. ll AnD lll only
+C. l ll AnD l
+D. lV only
+ANSWER:  C    
+294. HoistwAy is A  ___ in whiCh An elevAtor or DumBwAiter is DesigneD to operAte.?
+A. shAftwAy
+B. hAtChwAy
+C. well hole
+D. All of these
+ANSWER:  D      Def. 
+295.  Tests Are to Be performeD AnD mADe AvAilABle to the inspeCtor on All CorDs sets AnD reCeptACles useD for temporAry wiring  on ConstruCtion sites. All tests shAll Be  performeD _____.\n\nI. At intervAls not exCeeDing 3 months\nII. when there is eviDenCe of DAmAge\nIII. Before use on the ConstruCtion site?
+A. I only
+B. II only
+C. III only
+D. I II AnD III
+ANSWER:  D    ANSWER:A3 
+296. The grounDing ConDuCtor for seConDAry CirCuits of instrument trAnsformers AnD for instrument CAses shAll not Be smAller thAn 3.5mm ____.\n\nl.  metAl\nll.  Aluminum\nlll.  Copper?
+A. l only
+B. ll only
+C. lll only
+D. l ll AnD lll
+ANSWER:  C    2.50.9.9 
+297. Fixtures or lAmpholDers shoulD hAve no live pArts normAlly exposeD to ContACt unless they Are ___.\n\nI. rosette type 6 feet  ABove the floor\nII. CleAt type loCAteD At leAst 2400mm ABove the floor\nIII. Both A AnD B\nIV. neither A nor B?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B   
+298. A serviCe or feeDer supplying loADs suCh As householD Cooking equipment AnD eleCtriC Clothes Dryers shAll Be permitteD to hAve An ADDitionAl DemAnD fACtor of ___ perCent ApplieD to the Amount or portion DetermineD By the BAsiC CAlCulAtion.?
+A. 40
+B. 50
+C. 70
+D. 80
+ANSWER:  C   
+299. Where A DouBle-throw knife switCh hAs A vertiCAl throw ___ meAns shAll Be proviDeD to holD the BlADes in the open position when so set.?
+A. CloseD
+B. AutomAtiC
+C. integrAteD meChAniCAl
+D. loCking
+ANSWER: C
+300. Where requireD DrAwings for feeDer insulAtions shAll Be proviDeD prior to the ____.?
+A. Completion of instAllAtion
+B. instAllAtion of the feeDers
+C. removAl of the feeDers
+D. All of these
+ANSWER:  B
+301.  In CommerCiAl gArAges generAlly the floor AreA to A level of 460mm ABove grADe is DesignAteD As ___.?
+A. ClAss I Division I
+B. ClAss I Division II
+C. ClAss II Division II
+D. ClAss II Division I
+ANSWER: B
+302. In using multiple grounDing eleCtroDes they shAll Be sepArAteD one from the other At ___ mm DistAnCe ApArt.?
+A. 1800
+B. 1650
+C. 1750
+D. 2000
+30ANSWER:  A   
+303. The DisConneCting meAns for A 50 hp three-phAse 460v inDuCtion motor shAll hAve An Ampere rAting of At leAst ____ Amps.?
+A. 126
+B. 75
+C. 91
+D. 63
+30ANSWER:  C    TABle 4.30.14.4 
+304. OverCurrent proteCtion for eleCtriC orgAn CirCuits shAll not exCeeD ___ Amps.?
+A. 15
+B. 20
+C. 25
+D. none of these
+30ANSWER:  D   
+305.EACh trAnsformer shAll Be proviDeD with A nAmeplAte giving the nAme of the mAnufACturer rAteD kvA ___ if 25 kvA AnD lArger.\n\nl. Amount & kinD of insulAting liquiD whereuseD.\nll.frequenCyIll.ImpeDAnCe\nIV.  requireD CleArAnCes for ventilAting openings?
+A. l only
+B. ll only
+C. lV only
+D. l ll lll & lV
+ANSWER:  D   
+306. A single reCeptACle instAlleD on An inDiviDuAl BrAnCh CirCuit shAll hAve A rAting not less thAn ___ perCent of the rAting of the BrAnCh CirCuit.?
+A. 50
+B. 80
+C. 100
+D. 125
+ANSWER:  C    
+307. A surge Arrester is A proteCtive DeviCe for limiting surge voltAges By ____ or BypAssing surge Current.?
+A. DeCreAsing
+B. DisChArging
+C. limiting
+D. DerAting
+ANSWER:  B   
+308. A DisConneCting meAns serving A hermetiC refrigerAnt motor Compressor seleCteD on the BAsis of the nAmeplAte rAteD loAD Current or BrAnCh CirCuit seleCtion Current whiChever is greAter shAll hAve An Ampere rAting of __% of the nAmeplAte rAteD loAD Current or BrAnCh CirCuit seleCtion Current.?
+A. 125
+B. 80
+C. 100
+D. 115
+ANSWER:  D    ANSWER: 
+309. WhAt size grounDing ConDuCtor is requireD for A 2-wire DC generAtor useD in ConjunCtion with BAlAnCer set to oBtAin neutrAls for A 3-wire system equippeD with overCurrent DeviCes thAt will DisConneCt the 3-wire system in CAse of exCessive unBAlAnCing of voltAges or Current ?
+A. 8.0 sq mm Cu
+B. 14.0 sq mmCu
+C. 8.0 sq mm Al
+D. 5.5 sq mm Al
+ANSWER: A
+310. The hAzArDous AreA in A pit of A sprAy operAtion without proper vApor stop is ClAssifieD As A ___ loCAtion.?
+A. ClAss I Division I
+B. ClAss I Division II
+C. ClAss II Division I
+D. ClAss III Division I
+ANSWER:  A    5.0.1.5 
+311. TemporAry eleCtriCAl power AnD lighting instAllAtions shAll Be permitteD for A perioD not to exCeeD ___ DAys for holiDAy DeCorAtive lighting AnD similAr purposes.?
+A. 90
+B. 60
+C. 30
+D. 15
+ANSWER: A
+312. When An outlet from An unDer-floor rACewAy is DisContinueD the CirCuit ConDuCtors supplying the outlet ____.\n\nI. mAy Be spliCeD\nII. mAy Be reinsulAteD\nIII. mAy Be hAnDleD like ABAnDoneD outlets on loop wiring\nIV. shAll Be removeD from the rACewAy?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  D    3.90.1.7 
+313. Fixtures shAll Be wireD with ConDuCtors hAving insulAtion suitABle for the environment ConDitions AnD ___ to whiCh the ConDuCtors will Be suBjeCteD.?
+A. temperAture
+B. voltAge
+C. Current
+D. All of these
+ANSWER:  D    4.10.6.3 
+314. Signs in wet loCAtions shAll Be weAtherproof AnD  ____.\n\nI. hAve DrAin holes positioneD so there is no externAl oBstruCtions\nII. hAve At leAst one DrAin hole in everylow point\nlll. DrAin holes shAll not Be smAller thAn 15mm?
+A. l AnD ll only
+B. ll AnD lll only
+C. l only
+D. l ll AnD lll
+ANSWER:  A    
+315. SoliD DieleCtriC insulAteD ConDuCtors operAteD ABove 2000 volts in permAnent instAllAtions shAll hAve ___ insulAtion AnD shAll Be shielDeD.?
+A. ozone-resistAnt
+B. AsBestos
+C. hi- temperAture
+D. perfluoro-Alkoxy
+ANSWER:  A    3.10.1.6 
+316. The grounDing ConDuCtor shAll Be iDentifieD By ____.\n\nI. one Continuous green Color\nII. Being BAre\nIII. A Continuous green Color with one or more yellow stripes\nIV. Any of these?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  D   
+317. In generAl the voltAge limitAtion Between ConDuCtors in A surfACe metAl rACewAy is ____ volts.?
+A. 300
+B. 600
+C. 900
+D. 1000
+ANSWER:  A   
+318. LoCAtions in whiCh ignitABle fiBers Are storeD Are DesignAteD As ____.?
+A. ClAss II Division 2
+B. ClAss III Division 1
+C. ClAss III Division 2
+D. non-hAzArDous
+ANSWER:  C    
+319. A switCh or CirCuit BreAker shAll DisConneCt the grounDeD ConDuCtors of A CirCuit ___.\n\nI. By hAnD levers only\nII. simultAneously As it DisConneCts the ungrounDeD ConDuCtors\nIII. Before it DisConneCts the ungrounDeD ConDuCtors\nIV.  in none of the ABove wAys?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER: D.
+320. The spACe meAsureD horizontAlly ABove A show winDow must hAve At leAst one reCeptACle for eACh ___ lineAr mm.?
+A. 3600
+B. 5000
+C. 7600
+D. 3000
+ANSWER:  A   
+321.    If the AllowABle Current CArrying CApACity of A ConDuCtor Does not CorresponD to the rAting of A stAnDArD size over-Current DeviCe the next lArger size mAy Be useD proviDeD the Current Does not exCeeD ___ Amps.?
+A. 200
+B. 500
+C. 800
+D. 1000
+ANSWER:  C    
+322. In A Dwelling the CoDe requires A minimum of ____.\n\nI. two or more 20 Amp CirCuits for the smAll AppliAnCe CirCuits\nII. one 20 Amp CirCuit for the wAshing mAChine\nllI. one 20 Amp CirCuit for the BAthroom?
+A. l only
+B. l AnD ll only
+C. l AnD lll only
+D. l ll AnD lll
+ANSWER:  D    
+323. The feeDer for six 20 Amps reCeptACles supplying shore power shAll Be CAlCulAteD At ____ perCent of the sum of the rAting of the reCeptACles.?
+A. 70
+B. 80
+C. 90
+D. 100
+ANSWER:  C    5.55.1.12 
+324. The rAting of A lAmpholDer on A CirCuit whiCh operAtes At A voltAge less thAn 50 volts shAll Be At leAst ____ wAtts.?
+A. 220
+B. 660
+C. 330
+D. 550
+ANSWER:  B   
+325. HeAlth CAre low voltAge equipment frequently in ContACt with BoDies of persons shAll not exCeeD ___ volts.?
+A. 50
+B. 115
+C. 10
+D. 8
+ANSWER:  C    ANSWER: 
+326. RigiD metAl ConDuit shAll Be permitteD to Be instAlleD in ConCrete in DireCt ContACt with the eArth or in AreAs suBjeCt to severe influenCes where proteCteD By ____ AnD juDgeD suitABle for the ConDition.?
+A. CerAmiC
+B. Corrosion proteCtion
+C. PVC
+D. orAngeBurg
+ANSWER: B
+327. A pArk trAiler is one Built on A single ChAssis mounteD on wheels AnD hAving A gross trAiler AreA not exCeeDing ___ squAre meter in the setup moDe.?
+A. 50
+B. 40
+C. 30
+D. 20
+ANSWER:  B   
+328. The Philippine EleCtriCAl CoDe is _____.\n\nI. intenDeD to Be A Design mAnuAl\nII. meAnt to Be useD As An instruCtion mAnuAl for untrAineD persons\nIII. the prACtiCAl sAfeguArDing of persons AnD property\nIV. puBlisheD By BureAu of StAnDArDs?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  C    
+329. WhiCh of the following is/Are CorreCt ABout open wire systems on insulAtors \n\nI. surfACe-type snAp switChes Do not neeD Boxes\nll. ConDuCtor supports shAll Be within 150mm of A tAp\nlll.  surfACe-type snAp switChes shAll Be mounteD on insulAting mAteriAl?
+A. l only
+B. ll only
+C. l AnD lll only
+D. l ll AnD lll
+ANSWER:  A   
+330. OptiCAl fiBer CABles trAnsmit light for ___ through An optiCAl fiBer.?
+A. CommuniCAtions
+B. signAling
+C. Control
+D. All of these
+ANSWER:  D    7.70.1.6 
+331. The equipment BonDing jumper on the supply siDe of the serviCe is sizeD By the rAting of the ___.\n\nI. overCurrent proteCtive DeviCe\nII. serviCe entrAnCe ConDuCtors\nIII. serviCe Drop\nIV. loAD to Be serveD?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:
+332. TrAnsformers over 112  1/2  kvA shAll not Be within ___ mm of ComBustiBle mAteriAl.?
+A. 100
+B. 200
+C. 300
+D. 400
+ANSWER:  C   
+333. The overAll Covering of UF CABle shAll Be ____.\n\nl.  suitABle for DireCt BuriAl in the eArth\nll.  flAme-retArDAnt\nlll. moisture fungus AnD Corrosion resistAnt?
+A. lll AnD ll only
+B. l only
+C. l AnD lll only
+D. l ll AnD lll
+ANSWER:  D    3.40.3.13 
+334. In A ClAss II loCAtion where eleCtriCAlly-ConDuCting Dust is present flexiBle ConneCtions At motors CoulD Be mADe with ____.\n\nI. flexiBle metAl ConDuit\nII. type AC ArmoreD CABle\nIII. hArD usAge CABle\nIV liquiD-tight flexiBle metAl ConDuit with ApproveD fittings?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  C    
+335. Knife switChes rAteD for more thAn 1200 Amperes At 250 volts ____.\n\nI. Are useD only As isolAting switChes\nII. mAy Be openeD unDer loAD\nIII. shoulD Be plACeD so thAt grAvity tenDs to Close them\nIV. shoulD Be ConneCteD in pArAllel?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  A    4.4.1.13
+336. All eleCtriC equipment inCluDing power supply CorDs useD with storABle pools shAll Be proteCteD By ____.?
+A. fuses
+B. CirCuit BreAkers
+C. DouBle-insulAtion
+D. GFCI
+ANSWER:  D   
+337. WhAt is the minimum working CleArAnCe on A CirCuit 300 volts to grounD exposeD live pArts on one siDe AnD grounDeD pArts on the other siDe of the working spACe ?
+A. 1500
+B. 1200
+C. 1300
+D. 1000
+ANSWER:  D    ANSWER: 
+338. A single eleCtroDe Consisting of A ___ whiCh Does not hAve A resistAnCe to grounD of 25Ω or less shAll Be AugmenteD By one ADDitionAl eleCtroDe.\n\nl.  roD\nll.  pipe\nlll.  plAt?
+A. l only
+B. ll only
+C. lll only
+D. l ll or lll
+ANSWER:  D   
+339. A thermAl BArrier shAll Be requireD if the spACe Between the resistors AnD reACtors AnD Any ConDuCtor woulD Be ___ mm AnD Below.?
+A. 50
+B. 400
+C. 300
+D. 200
+ANSWER:  C    4.70.1.3 
+340. If the terminAl for the equipment grounDing ConDuCtor is not visiBle on the reCeptACle the ConDuCtor entrAnCe hole shAll Be mArkeD with the ____.?
+A. letter G
+B. letter GR
+C. worD grounD
+D. Any of these
+ANSWER:  D    2.50.6.17 ANSWER: 
+341. Signs AnD outline lighting system A.mAnufACturer shAll Be mArkeD with ____?
+A.mAnufACturer nAme
+B. trADemArk
+C. voltAge AnD Current
+D. All of these
+ANSWER:
+342. WhiCh of the following is not requireD on A motor nAmeplAte ?
+A. horsepower
+B. mAker’s nAme
+C. wAtts
+D. voltAge
+ANSWER:
+343. InDustriAl mAChinery is DefineD As ___.\n\nl.  A portABle mAChine useD to shApeD or form plAstiC\nll. A power-Driven mAChine not portABle By hAnD?
+A. l only
+B. ll only
+C. l AnD ll
+D. neither l nor ll
+ANSWER:  B   
+344. The vertiCAl CleArAnCe ABove the roof level shAll Be mAintAineD for A DistAnCe of not less thAn _____ in All DireCtions from the eDge of the roof.?
+A. 500 mm
+B. 900 mm
+C. 800 mm
+D. 1000 mm
+ANSWER:  B    
+345.  Where reDuCeD heAting of the ConDuCtors results from motors operAting on Duty-CyCle intermittently or from All motors not operAting At one time the feeDer ConDuCtors ___.\n\nI. Are not AlloweD to hAve the AmpACity reDuCeD\nII. mAy hAve An AmpACity less thAn speCifieD if ACCeptABle to the Authority hAving jurisDiCtion.\nIII. Must Be sizeD no smAller thAn 125% of the lArgest motor ConneCteD to the feeDer\nIV. Must Be sizeD not smAller thAn 125% of the lArgest motor plus other loADs.?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B   
+346. SpliCes AnD tAps shAll Be permitteD within A wirewAyproviDeD they Are ACCessiBle.  The ConDuCtor inCluDing spliCes AnD tAps shAll not fill the wirewAy to more thAn ___ perCent of its AreA At thAt point.?
+A. 25
+B. 80
+C. 125
+D. 75
+ANSWER:  D   
+347. EsCAlAtor motors shAll Be ClAssifieD As ___ Duty.?
+A. intermittent
+B. vArying
+C. short-time
+D. Continuous
+ANSWER:  D    ANSWER: 
+348. Torque motors Are rAteD for operAtion ____.?
+A. At full torque
+B. At FLC
+C. At stAnDstill
+D. with CoDe letter
+ANSWER: C
+349. The rAting of An over-Current DeviCe for A CApACitor shAll Be ____?
+A. not over 20A
+B. As low As prACtiCABle
+C. less thAn 50A
+D. none of these
+ANSWER:  B    
+350. It is the intent of the CoDe thAt ____ wiring or the ConstruCtion of equipment neeD not Be inspeCteD At the time of instAllAtion of the equipment if the equipment hAs Been listeD By A quAlifieD eleCtriCAl testing lABorAtory.?
+A. fACtory-instAlleD internAl
+B. fACtory-instAlleD
+C. unDergrounD
+D. rACewAy
+ANSWER:  A 
+351. A night CluB lighting Dimmer instAlleD in An ungrounDeD ConDuCtor shAll hAve overCurrent proteCtion rAteD At no more thAn ___ perCent.?
+A. 50
+B. 70
+C. 80
+D. 125
+ANSWER: D
+352. A motel ConferenCe room is DesigneD for the AssemBly of 100 or more persons.  The room is fire-rAteD ConstruCtion.  One of the following wiring methoDs shAll Be requireD:?
+A. rigiD non-metAlliC ConDuit
+B. MI CABle
+C. non-metAlliC sheAtheD CABle
+D. NMB CABle
+ANSWER:  B    
+353. BuswAys rAteD over 600 volts shAll hAve All ConDuCtor terminAtion AnD ConneCtion hArDwAre ACCessiBle for ____.?
+A. instAllAtion
+B. ConneCtion
+C. mAintenAnCe
+D. All of these
+ANSWER:  D   
+354. CABle trAy system shAll not Be useD in ____ or where suBjeCt to severe physiCAl DAmAge.?
+A. tunnels
+B. hoistwAys
+C. hAzArDous loCAtions
+D. 600 volt systems
+ANSWER:  B   
+355. WhAt is the minimum BuriAl Depth for rigiD non-metAlliC ConDuit in A Dispensing stAtion ClAss I Division 1 loCAtion ?
+A. 500mm
+B. 600mm
+C. 700mm
+D. 800mm
+ANSWER:  B    
+356. The minimum size serviCe for A  moBile home in A moBile home pArk is ____ Amps.?
+A. 80
+B. 70
+C. 200
+D. 100
+ANSWER:  D    
+357. For over 600v the motor BrAnCh CirCuit ConDuCtors shAll hAve An AmpACity not less thAn _____\n\nI. 175% of the motor nAmeplAte Current\nII. 150% of the motor nAmeplAte Current\nIII. 140% of the full loAD Current from the AppropriAte tABle\nIV. the Current At whiCh the motor overloAD DeviCe is seleCteD to trip?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  D   
+358. The AmpACity of A single 3.5mm fixture wire is ____ Amps?
+A. 20
+B. 24
+C. 23
+D. 35
+ANSWER:  C   
+359. A CorD ConneCtor thAt is supporteD By A permAnently instAlleD CorD penDAnt shAll Be ConsiDereD____.?
+A. reCeptACle outlet
+B. permAnent CorD
+C. lighting outlet
+D. outlet DeviCe
+ANSWER:  A    
+360. Equipment intenDeD to BreAk Current At fAult levels shAll hAve An interrupting rAting suffiCient for the system voltAge AnD the Current whiCh is ___ At the line terminAls of the equipment.?
+A. At mAximum
+B. operAting
+C. AvAilABle
+D. requireD
+ANSWER:  C   
+361.  ExAmples of resistAnCe heAters Are ____\nl. heAting BlAnkets\nll. heAting tApe\nlll. heAting BArrel?
+A. l AnD ll only
+B. ll AnD lll
+C. lll only
+D. ll only
+ANSWER:  A   
+362. MetAl surfACe rACewAys hAving spliCes AnD tAps shAll Be permitteD As long As the spliCes AnD tAps AnD ConDuCtors Do not fill the rACewAy more thAn ____ perCent of the AreA of the rACewAy At thAt point?
+A. 40
+B. 50
+C. 70
+D. 75
+ANSWER:  D   
+363. CirCuits thAt only supply neon tuBing instAllAtions shAll not Be rAteD in exCess of ____ Amperes.?
+A. 15
+B. 20
+C. 30
+D. 50
+ANSWER:  C    
+364. A portABle motor whiCh hAs An AttAChment plug AnD reCeptACle mAy use this type of AttAChment As the Controller proviDeD the motor Does not exCeeD ____ hp.?
+A. 1/8
+B. 1/3
+C. 1
+D. 3
+ANSWER:  A    
+365. Live pArts exposeD on the front of A switChBoArD Are present; the working spACe in front of the switChBoArD shAll not Be less thAn ____ mm.?
+A. 760
+B. 500
+C. 620
+D. 750
+ANSWER:  D 
+366. For hAllwAys of ____ mm or more in length At leAst one reCeptACle outlet shAll Be requireD.?
+A. 2500
+B. 3000
+C. 1800
+D. 2300
+ANSWER: B
+367. In pAnelBoArDs where the voltAge on BusBArs is 250 volts AnD the BArs Are opposite polArity helD free in Air the minimum spACing Between the pArts is ____mm.?
+A. 12.7
+B. 25.4
+C. 31.8
+D. 19.1
+ANSWER:  D 
+368. AlkAli-type BAttery Cells in jArs of ConDuCtive mAteriAl shAll Be instAlleD in trAys of nonConDuCtive mAteriAl with not more thAn ____ 24 volt Cells in the series CirCuit in Any one trAy.?
+A. ten
+B. twenty
+C. thirty
+D. forty
+ANSWER:  B    
+369. Other equipment thAt is loCAteD ABove or Below the eleCtriCAl equipment shAll Be permitteD to extenD not more thAn ____ mm BeyonD the front of the eleCtriCAl equipment..?
+A. 100
+B. 150
+C. 130
+D. 120
+ANSWER:  B   1 
+370. The grounDing ConDuCtor for seConDAry CirCuits of instrument trAnsformers AnD for instrument CAses shAll not Be smAller thAn 3.5sqmm.\n\nl.  metAl\nll.  Aluminum\nlll. Copper?
+A. l only
+B. ll only
+C. lll only
+D. l ll or lll
+ANSWER:  C    2.50.9.9 
+371. A Current-limiting overCurrent proteCtive DeviCe is DeviCes whiCh will ____ the Current flowing in the fAulteD CirCuit.?
+A. reDuCe
+B. inCreAse
+C. mAintAin
+D. none of these
+ANSWER:  A    2.40.1.2 
+372. An offiCe is to Be wireD with the numBer of reCeptACles unknown the DemAnD for the reCeptACles is _____ vA per squAre meter.?
+A. 4
+B. 2
+C. 0
+D. 8
+ANSWER:  D   
+373. In A reCreAtionAl vehiCle pArk with eleCtriCAl supply At leAst ____% of the sites shAll Be equippeD with 50 Ampere 125/250 volt reCeptACles.?
+A. 5
+B. 20
+C. 70
+D. 100
+ANSWER:  B   
+374. No pArts of penDAnts shAll Be loCAteD within A zone meAsureD ____ mm horizontAlly AnD ____ mm vertiCAlly from the top of the BAthtuB rim.?
+A. 900 2400
+B. 2400 900
+C. 1200 2500
+D. 3200 2400
+ANSWER:
+375.  The leAD wires of heAting CABles Are Color CoDeD for ___ iDentifiCAtion.?
+A. leAD
+B. voltAge
+C. wire
+D. CABle
+ANSWER:  B   
+376. Plug fuses must hAve whAt speCifiC shApe ?
+A. oCtAgonAl
+B. squAre
+C. hexAgonAl
+D. rounD
+ANSWER:  C    
+377. Fixtures in Clothes Closets shAll Be ____\n\nl. A surfACe-mounteD or reCesseD inCAnDesCent fixture with A Completely enCloseD lAmp\nll. A surfACe-mounteD or reCesseD fluoresCent fixture\nlll. penDAnt fixture?
+A. l only
+B. l AnD ll only
+C. l AnD lll only
+D. l ll AnD lll
+ANSWER:  B    
+378. All heAting elements thAt Are replACeABle ____ AnD Are A pArt of An eleCtriC heAter shAll Be legiBly mArkeD with the rAting in volts AnD wAtts or in volts AnD Amperes?
+A. in the shop
+B. By the mAnufACturer
+C. in the fielD
+D. none of these
+ANSWER:  C    4.22.5.2 
+379. Plug fuses AnD fuseholDers CAn Be useD in CirCuits supplieD By A system hAving A grounDeD neutrAl AnD hAving no ConDuCtor At over ____ volts to grounD.?
+A. 115
+B. 125
+C. 150
+D. 300
+ANSWER:  D   2 
+380. EMT shAll not Be useD _____.?
+A. for exposeD work
+B. where proteCteD from Corrosion solely By enAmel
+C. for ConCeAleD work
+D. none of these
+ANSWER:  B   
+381. Where A motor is ConneCteD to A BrAnCh CirCuit By meAns of An AttAChment plug AnD reCeptACle AnD inDiviDuAl overloAD proteCtion is omitteD the rAting of the AttAChment plug AnD reCeptACle shAll not exCeeD ____ or 250 volts.?
+A. 15 Amp At 110 volts
+B. 20 Amp At 115 volts
+C. 25 Amp At 120 volts
+D. 15 Amp At 125 volts
+ANSWER:
+382. All types FCC CABle ConneCtions shAll use ConneCtions iDentifieD for their use instAlleD suCh thAt ___ AgAinst DAmpness AnD liquiD spillAge Are proviDeD.\n\nl. eleCtriCAl Continuity\nll. insulAtion\nlll. seAling?
+A. l only
+B. ll only
+C. lll only
+D. l ll AnD lll
+ANSWER:
+383. The DisConneCting meAns of A hermetiC-type refrigerAtor Compressor shAll hAve An AmpACity of At leAst ____ of the nAmeplAte full loAD Current?
+A. 125%
+B. 80%
+C. 100%
+D. 115%
+ANSWER:  D   ANSWER: 
+384. Fixtures shAll Be so ConstruCteD thAt ADjACent ComBustiBle mAteriAl will not Be suBjeCt to temperAture in exCess of ____ Degrees C.?
+A. 60
+B. 75
+C. 90
+D. 110
+ANSWER:  C   
+385.  VegetAtion suCh As trees shAll not Be useD for support of ____.?
+A. lighting fixtures
+B. BrACkets or ClAmps
+C. overheAD ConDuCtor spAns
+D. none of these
+ANSWER:  C   
+386. Motor Control CirCuit is the CirCuit  of A Control AppArAtus or system thAt CArries the _____ DireCting the performAnCe of the Controller But Does not CArry the mAin power Current.?
+A. meChAniCAl loAD
+B. eleCtriCsignAls
+C. A & B
+D. none of these
+ANSWER:  B    4.30.1.2 
+387. SepArAtion of junCtion Box from motor shAll Be permitteD to Be sepArAteD from the motor not more thAn _____mm.?
+A. 1600
+B. 1800
+C. 2200
+D. 2000
+ANSWER: B
+388. SE CABle useD to supply ____ shAll not Be suBjeCteD to ConDuCtor temperAture is exCess of the temperAture speCifieD for the type of insulAtion involveD?
+A. lighting
+B. AppliAnCe
+C. motors
+D. generAtors
+ANSWER:  B
+389. An overCurrent trip unit of A CirCuit shAll Be ConneCteD in series with eACh _____?
+A. ungrounDeD ConDuCtor
+B. grounDeD ConDuCtor
+C. overCurrent DeviCe
+D. trAnsformer
+ANSWER:  A    
+390. ListeD or lABeleD equipment shAll Be instAlleD useD or Both in ACCorDAnCe with ____?
+A. the joB speCifiCAtion
+B. the plAns
+C. the instruCtions By the Authority hAving jurisDiCtion
+D. the instruCtions inCluDeD in the listing or lABeling
+ANSWER: D
+391. A grounDing eleCtroDe ConneCtion thAt is enCAseD in ConCrete or DireCtly BurieD shAll ____?
+A. Be mADe ACCessiBle
+B. Be mADe only By exothermiC welDing
+C. Be A minimum 38mm2 BAre
+D. not Be requireD to Be ACCessiBle
+ANSWER:  D    2.50.3.19 exC.1 
+392. A lighting fixture instAlleD outDoors is permitteD to Be supporteD By ___\n\nI. trees\nII. A metAl pole\nIII. An outlet Box?
+A. I only
+B. II & III only
+C. II only
+D. I II or III
+ANSWER:  A    
+393. For swimming pool wAter heAters rAteD At more thAn ___ Amperes thAt hAve speCifiC instruCtions regArDing BonDing AnD grounDing only those pArts DesignAteD to Be BonDeD shAll Be BonDeD AnD only those pArts DesignAteD to Be grounDeD shAll Be grounDeD?
+A. 50
+B. 40
+C. 30
+D. 20
+ANSWER:
+394. Where A fixture is reCesseD in fire resistAnt mAteriAl in A BuilDing of fire resistAnt ConstruCtion A temperAture not higher thAn ___ shAll Be ConsiDereD ACCeptABle if the fixture is plAinly mArkeD thAt it is listeD for thAt serviCe.?
+A. 150 oC
+B. 165 oC
+C. 170 oC
+D. none of these
+ANSWER:  A    
+395.  A mAnufACtureD AssemBly DesigneD to support AnD energize lighting fixtures thAt Are CApABle of Being reADily repositioneD is ___?
+A. Ceiling griD lighting
+B. eleCtriC DisChArge lighting
+C. lighting trACk
+D. open CirCuit lighting
+ANSWER:  C   
+396. When CAlCulAting the ConDuCtor fill for strut-type ChAnnel rACewAy with internAl joiners the rACewAy shAll Be permitteD to Be filleD to ___ perCent of the Cross-seCtionAl AreA.?
+A. 20
+B. 25
+C. 30
+D. 40
+ANSWER:  B   
+397. SpliCes AnD tAps shAll Be permitteD in surfACe nonmetAlliC rACewAys hAving A removABle Cover thAt is ACCessiBle After instAllAtion.  The ConDuCtors inCluDing spliCes AnD tAps shAll not fill the rACewAy to more thAn ___ perCent of its AreA At thAt point.?
+A. 31
+B. 40
+C. 53
+D. 75
+ANSWER:  D   
+398. Lighting fixtures loCAteD in the sAme room AnD not DireCtly AssoCiAteD with A hyDromAssAge BAthtuB shAll Be instAlleD in ACCorDAnCe with the requirements Covering the instAllAtion of thAt equipment in ___?
+A. swimming pool AreA
+B. kitChen
+C. exerCise room
+D. BAthrooms
+ANSWER:  D   
+399. In A reCreAtionAl vehiCle pArk tent sites equippeD with only 20 Ampere supply fACilities shAll Be CAlCulAteD on the BAsis of ____ per site.?
+A. 180vA
+B. 300vA
+C. 360vA
+D. 600vA
+ANSWER:  D   
+400. Type ___ CABle Consists of three or more flAt Copper ConDuCtors plACeD eDge-to-eDge AnD sepArAteD AnD enCloseD within An insulAting AssemBly.?
+A. NMC
+B. AC
+C. MI
+D. FCC
+ANSWER:  D    3.24.1.2 
+401.  The minimum size serviCe lAterAl to A BrAnCh CirCuit limiteD loAD is ____ Copper.?
+A. 8.0mm
+B. 5.5mm
+C. 3.5mm
+D. none of these
+40ANSWER:  A    
+402. A 2400 volt leAD CABle CAn Be Bent up to ____ times its DiAmeter.?
+A. 6
+B. 8
+C. 10
+D. 12
+40ANSWER:  D   
+403. A fixture rAteD At 6 Amps requires A size ____ minimum fixture wire.?
+A. 1.25mm
+B. 0.75mm
+C. 2.0mm
+D. none of these
+40ANSWER:  B   
+404. The mAximum perCent of overCurrent proteCtion AlloweD is ____ of the input Current to An AutotrAnsformer when less thAn 9 Amps.?
+A. 167%
+B. 150%
+C. 300%
+D. 125%
+40ANSWER:  D   
+405.  Aluminum fittings AnD enClosures shAll Be permitteD to Be useD with ____ where not suBjeCt to severe Corrosive influenCes.?
+A. Both ferrous AnD nonferrous ConDuits
+B. PVC thiCk wAll
+C. eleCtriCAl nonmetAlliC tuBing
+D. steel eleCtriCAl metAlliC tuBing
+ANSWER:  D   
+406. All 125 volt single phAse reCeptACles within ____ mm of the insiDe wAlls of A hyDromAssAge tuB shAll Be proteCteD By A grounD fAult CirCuit interrupter .?
+A. 2600
+B. 2850
+C. 3000
+D. none of these
+ANSWER:  C    ANSWER: 
+407. Of the two to six serviCe DisConneCting meAns in A pAnel only A DisConneCt useD for ____ is permitteD to Be remote from the other DisConneCts.?
+A. Control wiring
+B. A wAter pump intenDeD for fire proteCtion
+C. elevAtor pAnels
+D. supply to ACross the line stArting
+ANSWER: B
+408. To reACh A lighting fixture junCtion  Box you hAD to stAnD on A lADDer.  This junCtion Box is ConsiDereD to Be.?
+A. ConCeAleD
+B. reADily ACCessiBle
+C. ACCessiBle
+D. hiDDen
+ANSWER:  B   
+409. The mAximum numBer of 15 Amp reCeptACles permitteD on A free stAnDing offiCe pArtition is ____.?
+A. 10
+B. 13
+C. 2
+D. 6
+ANSWER: B
+410. TrAnsformer vAults shAll hAve ADequAte struCturAl strength AnD A minimum fire resistAnCe of At leAst ____ hours.  Unless proteCteD By AutomAtiC sprinklers.?
+A. 6
+B. 1 1/2
+C. 3
+D. not requireD
+ANSWER:  C   
+411. In other thAn Dwelling ____ must hAve GFCI proteCtion in A CommerCiAl BuilDing.?
+A. institutionAl kitChens reCeptACle
+B. outDoor reCeptACle
+C. BAthroom reCeptACle
+D. All of these
+ANSWER:  D    
+412. The highest Current At rAteD voltAge thAt A DeviCe is intenDeD to interrupt unDer stAnDArD test ConDitions is known As ____?
+A. overloAD
+B. inverse time rAteD
+C. thermAl proteCtor
+D. interrupting rAting
+ANSWER:  D   
+413. Where fluoresCent lighting fixtures Are supporteD inDepenDently of the outlet Box they shAll Be ConneCteD By metAl rACewAys nonmetAlliC rACewAys or ____ mAy Be useD.\n\nI.  nonmetAlliC sheAtheD CABle\nII.  MI CABle\nIII.  AC CABle\nIV.  MC CABle?
+A. I AnD II only
+B. II & III only
+C. III only
+D. I II III & IV
+ANSWER:  D    
+414. The resiDuAl voltAge of A CApACitor shAll Be reDuCeD to ___ volts nominAl or less with 1 minute After the CApACitor is DisConneCteD from the sourCe of supply.?
+A. 0
+B. 15
+C. 30
+D. 50
+ANSWER:
+415.  Where single phAse loADs Are ConneCteD on the loAD siDe of A phAse Converter they shAll not Be ConneCteD to the ____?
+A. high leg
+B. grounDeD phAse
+C. mAnufACtureD phAse
+D. neutrAl
+ANSWER:  C   
+416. For An instAllAtion Consisting of not more thAn two 2-wire BrAnCh CirCuits the serviCe DisConneCting meAns shAll hAve A rAting of not less thAn ___ Amperes.?
+A. 20
+B. 30
+C. 60
+D. 100
+ANSWER: B
+417. The term pool inCluDes swimming wADing AnD therApeutiC pools AnD the term fountAin inCluDes ____\n\nI.  ornAmentAl pools\nII.  Drinking fountAins\nIII.  DisplAy pools\nIV. refleCtion pools?
+A. I AnD II only
+B. II & III only
+C. III & IV only
+D. I III & IV only
+ANSWER:  D   
+418. Where the overCurrent DeviCe is rAteD over ____ Amperes the AmpACity of the ConDuCtors it proteCts shAll Be equAl to or greAter thAn the rAting of the overCurrent DeviCe.?
+A. 100
+B. 200
+C. 500
+D. 800
+ANSWER: D
+419. When DerAting the AmpACity of multiConDuCtor CABles to Be instAlleD in CABle trAy the AmpACity DurAtion shAll Be BAseD on ___.\n\nI.  the totAl numBer of Current CArrying ConDuCtors in the CABle trAy\nII. the totAl numBer of Current CArrying ConDuCtors in the CABle.?
+A. I only
+B. II only
+C. either I or II
+D. Both I AnD II
+ANSWER:  B    
+420. A/An ___ shAll Be useD to ConneCt the grounDing terminAl of A grounDing type reCeptACle to A grounDeD Box.?
+A. neutrAl ConDuCtor
+B. BrAnCh CirCuit
+C. equipment BonDing jumper
+D. BonDing jumper mAin
+ANSWER:  C   
+421.  SeverAl motors eACh not exCeeDing 1 horsepower in rAting shAll Be permitteD on A nominAl 115 volt BrAnCh CirCuit proteCteD At not over ____ Amperes.?
+A. 15
+B. 20
+C. 30
+D. 40
+ANSWER:  B    exC. 
+422. If A switCh or CirCuit BreAker serves As the DisConneCting meAns for A permAnently ConneCteD motor Driven AppliAnCe of more thAn ___ horsepower it shAll Be loCAteD within sight from the motor Controller.?
+A. 1/8
+B. 1/4
+C. 1/2
+D. 3/4
+ANSWER:
+423. OverCurrent DeviCes shAll Be enCloseD in ____\n\nI. CABinets\nII. Cutout Boxes?
+A. I only
+B. II only
+C. I or II
+D. none of these
+ANSWER:
+424. Where reDuCeD heAting of the ConDuCtors results from motors operAting on Duty-CyCle intermittently of from All motors not operAting At one time the feeDer ConDuCtors ____\n\nI. Are not AlloweD to hAve the AmpACity reDuCeD\nII. mAy hAve An AmpACity less thAn speCifieD if ACCeptABle to the Authority hAving jurisDiCtion\nIII. must Be sizeD no smAller thAn 125% of the lArgest motor ConneCteD to the feeDer\nIV. must Be sizeD not smAller thAn 125% of the lArgest motor plus other loADs?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B   
+425.  Live pArts of generAtors operAteD At more thAn ___ volts to grounD shAll not Be exposeD to ACCiDentAl ContACt where ACCessiBle to unquAlifieD persons.?
+A. 30
+B. 50
+C. 120
+D. 150
+ANSWER:  B   
+426. A ___ is A CirCuit operAting At 600 volts nominAl or less Between phAses thAt ConneCts two power sourCes or power supply point suCh As the seConDAries of two trAnsformers.\n\nI.  BrAnCh CirCuit inDiviDuAl\nII. BrAnCh CirCuit multiwire\nIII. SeConDAry tie?
+A. I only
+B. II only
+C. III only
+D. I AnD II only
+ANSWER:  C    4.50.1.6 
+427. EntrAnCes to rooms AnD other guArDeD loCAtions ContAining exposeD live pArts shAll Be mArkeD with ___ wArning signs forBiDDing unquAlifieD persons to enter.?
+A. yellow
+B. Blue
+C. ConspiCuous
+D. orAnge
+ANSWER: C
+428. Where flexiBle CorDs Are permitteD By the CoDe to Be permAnently ConneCteD it is permissiBle to omit ___ for suCh CorDs.?
+A. switChes
+B. reCeptACles ConneCtions
+C. grounDing
+D. GFCI proteCtion
+ANSWER:  B    
+429. A 20 Ampere rAteD BrAnCh CirCuit with 3.5 mm2 wire supplying A Duplex reCeptACle CAn Be loADeD to A mAximum of ____ Amperes.?
+A. 16
+B. 20
+C. 12
+D. 10
+ANSWER:  A    
+430. The grounDing eleCtroDe for grounDing CommuniCAtions systems mAy Be ConneCteD to the neArest ACCessiBle loCAtion on Any of the following EXCEPT one. WhiCh one of this \n\nI. BurieD interior PVC wAter piping system\nII. GrounDing eleCtroDe ConDuCtor\nIII. BuilDing struCture of A ConCrete BuilDing\nIV. GrounDing terminAl of serviCe equipment if proviDe By the utility CompAny?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER: D
+431. ACCorDing to the CoDe the minimum insulAtion level for neutrAl ConDuCtor of resiDentiAl instAllAtion whiCh hAs soliDly grounDeD system shAll Be______.?
+A. 300 V
+B. 600 V
+C. 750 V
+D. 1000 V
+ANSWER:  B   
+432. The surge Arrester for serviCe less thAn 1000 volts ConneCteD By Copper ConDuCtor for grounDing eleCtroDe ConDuCtor or the equivAlent grounDing terminAl shAll NOT Be smAller thAn _____.?
+A. 8.0 mm
+B. 5.5 mm
+C. 3.5 mm
+D. 2.0 mm
+ANSWER:  D   
+433. The ConstruCtion of metAl CABinet AnD Cutout Boxes shAll Be suCh As to seCure strength AnD rigiDity. If ConstruCteD of unCoAteD sheet steel the metAl thiCkness shoulD NOT Be less thAn?
+A. 1.55 mm
+B. 1.75 mm
+C. 1.00 mm
+D. 1.35 mm
+ANSWER:
+434. A three- phAse generAl purpose squirrel CAge motor DrAws A full loAD Current of 40 A. WhAt is the mAximum size of time DelAy fuse thAt mAy Be useD for short CirCuit proteCtion ?
+A. 120 A
+B. 80 A
+C. 40 A
+D. 100 A
+ANSWER:  B   
+435.  WhAt is the mAximum AllowABle voltAge Drop from the mAin CirCuit BreAker to the fArthest lAmp loAD ?
+A. 10 perCent
+B. 5 perCent
+C. 2 perCent
+D. 3 perCent
+ANSWER:  B    
+436. In wiring using rigiD metAl ConDuits ConDuit smAller thAn ____ shAll not Be useD.?
+A. 15 mm
+B. 32 mm
+C. 8 mm
+D. 25 mm
+ANSWER: A
+437. The uses of non- metAlliC extensions Are NOT AlloweD in All But one of the following. WhiCh one is this \n\nI. DireCtly on the surfACe of wAll\nII. where exposeD to Corrosive vApors\nIII. where suBjeCt to Corrosive vApors\nIV. Through floors or pArtitions?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  A    
+438. Determine the minimum AppliAnCe AnD lAunDry loAD requireD for A Dwelling unit.?
+A. 4000 volt- Ampere
+B. 1500 volt- Ampere
+C. 3000 volt- Ampere
+D. 2000 volt- Ampere
+ANSWER: B
+439. If A 460- V switChBoArD hAs A exposeD pArts on one siDe AnD grounDeD pArts or ConCrete on the opposite siDe WhAt working CleArAnCe Between the two siDes is permitteD By the CoDe ?
+A. 500 mm
+B. 1900 mm
+C. 1500 mm
+D. 1000 mm
+ANSWER:  D   TABle  1.10.2.1note ConDition 2 
+440. For A rigiD steel ConDuit of trADe DiAmeter 50- mm the fielD BenD shAll Be so mADe thAt the rADius of the inner eDge shAll not Be less thAn A CertAin rADius for ConDuCtors. WhAt is this rADius ?
+A. 450 mm
+B. 250 mm
+C. 300 mm
+D. 375 mm
+ANSWER:  C   
+441. WhAt Does the symBol Consisting of reCtAngle with soliD shADing inDiCAte ?
+A. Fuse Cut-out
+B. Telephone exChAnge
+C. SAfety switCh
+D. Lighting pAnel BoArD
+ANSWER:  D    A
+442. BrAnCh CirCuit ConDuCtors supplying A single motor shAll hAve An AmpACity in terms of the full loAD Current of NOT less thAn?
+A. 100%
+B. 125%
+C. 130%
+D. 115%
+ANSWER:  B   
+443. MeDium voltAge CABle shAll Be permitteD for instAllAtion on the following EXCEPT \n\nI. Where instAlleD in CABle trAys\nII. Where exposeD to DireCt sunlight\nIII. Power systems up to 35000 volts in Dry loCAtions\nIV. Power systems up to 35000 volts in wet loCAtions?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B    3.28.2.1 
+444. The mAximum size of liquiD light flexiBle metAl ConDuit shAll Be ___ eleCtriCAl rACewAy size.?
+A. 50 mm
+B. 125 mm
+C. 150 mm
+D. 100 mm
+ANSWER:
+445.  Wirings AlloweD to Be instAlleD outsiDe BuilDings Are enumerAteD Below EXCEPT one. WhiCh one is this ?
+A. Type MC CABle
+B. FlAt ConDuCtor CABle
+C. RigiD metAl ConDuit
+D. Open wires on insulAtors
+ANSWER:  B   
+446. When instAlling CABles or rACewAys type wiring methoD pArAllel to the frAming memBers suCh As joists rAfters or stuDs the CABle or rACewAy shAll Be instAlleD AnD supporteD so thAt the neArest outsiDe surfACe of the CABle or rACewAy is NOT less thAn A CertAin DistAnCe from the neArest eDge of the frAming memBer. WhAt is this DistAnCe ?
+A. 20 mm
+B. 30 mm
+C. 10 mm
+D. 50 mm
+ANSWER: B
+447. The sum of the Cross-seCtionAl AreAs of All ContAineD ConDuCtors At Any Cross seCtion of A wirewAy shAll not exCeeD _____ of the interior Cross seCtionAl AreA of the wirewAy.?
+A. 20 %
+B. 50 %
+C. 40 %
+D. 35 %
+ANSWER:  A   
+448. UnDergrounD CommuniCAtion ConDuCtors in rACewAy hAnD hole or mAnhole ContAining eleCtriC light AnD power ConDuCtors shAll Be in A seCtion ____ from suCh ConDuCtors By meAns of A sepArAtor   unDer Art 10.1.3.2  .?
+A. ComBineD
+B. sepArAteD
+C. inCluDeD
+D. insiDe
+ANSWER: B
+449. BuswAys shAll Be permitteD to Be instAlleD Being pAnels if meAns of ACCess Are proviDeD AnD if the ConDitions Below Are met. One of them is NOT vAliD. WhiCh one of this \n\nI. No overCurrent DeviCes Are instAlleD on the BuswAy other thAn for An inDiviDuAl fixture\nII. The BuswAy is so instAlleD thAt the joints Between seCtions AnD fitting Are ACCessiBle for mAintenAnCe purposes\nIII. The BuswAy is open AnD of the ventilAtor type\nIV. The spACe BehinD the pAnels is not for Air hAnDling purposes?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  A    
+450. FlAt ConDuCtor CABles mAy Be instAlleD in Any of the following loCAtion EXCEPT one. WhiCh one is this ?
+A. On hArD ConCrete flooring
+B. In wet loCAtions
+C. For BrAnCh CirCuit
+D. In DAmp loCAtions
+ANSWER:  B   
+451. In inDoor wet loCAtions the entire wiring system inCluDing All Boxes fittings Control BoArDs AnD pAnel BoArDs shAll Be instAlleD on wAlls with A minimum CleArAnCe. WhAt is this CleArAnCe ?
+A. 10 mm
+B. 6 mm
+C. 20 mm
+D. 15 mm
+ANSWER:
+452. A type of CABle whiCh is A single or multi- ConDuCtor soliD DieleCtriC insulAteD CABle rAteD 2001 volts or higher.?
+A. MC
+B. MV
+C. FCC
+D. AC
+ANSWER:  B    3.28.1.2 
+453. Consists of three or more flAt Copper ConDuCtor plACeD eDge to eDge sepArAteD AnD enCloseD within An insulAting AssemBly.?
+A. ArmoreD CABle
+B. FlAt CABle AssemBlies
+C. SheAtheD CABle
+D. FlAt ConDuCtor CABle
+ANSWER:  D    3.24.1.2 
+454. An outlet Box shoulD Be fAsteneD to A ConCrete wAll By the use of?
+A. WooD plug AnD nAil
+B. Toggle Bolts
+C. PorCelAin inserts AnD sCrews
+D. ExpAnsion Bolts
+ANSWER:
+455. Power AnD Control trAy CABles   mAyBe useD unDer one of the following ConDitions. WhiCh one is this \n\nI. Where exposeD to physiCAl DAmAge\nII. Where instAlleD As open CABle on BrACkets\nIII. Where instAlleD in inDustriAl estABlishment where A registereD mAster eleCtriCiAn will serviCe the instAllAtion\nIV. Where DireCt BurieD unDergrounD?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:ANSWER:
+456. In rigiD metAl wiring ConDuit ConDuits shAll Be supporteD At leAst every?
+A. 2000 mm
+B. 2500 mm
+C. 3500 mm
+D. 3000 mm
+ANSWER:  D   
+457. MetAl ClAD CABles shAll Be permitteD for instAllAtions in the following loCAtions EXCEPT one. WhiCh one is this ?
+A. SignAl CirCuits
+B. BrAnCh CirCuits
+C. DireCt BuriAl in the eArth
+D. AeriAl CABle
+ANSWER:  C    3.30.2.3 ANSWER:
+458. Non- metAlliC Boxes not over ____  Cu. Cm shAll Be permitteD only on non-metAlliC wiring methoD.?
+A. 1725
+B. 1520
+C. 1700
+D. 1650
+ANSWER:  D    ANSWER: 
+459. For rACewAy 20 mm trADe size or lArger ContAining ConDuCtors 22 mm2 or lArger the minimum length of the Box in strAight pulls shAll NOT Be less thAn ___ times the trADe DiAmeter of the lArgest rACewAy.?
+A. 8
+B. 10
+C. 6
+D. 12
+ANSWER:  A    ANSWER: 
+460. Are reCtAngulAr sheet metAl enClosures equippeD with removABle Covers proviDing ACCess to ConDuCtors insiDe ?
+A. MetAl ClAD CABle
+B. multiple CABle ConDuCtors
+C. BuswAys
+D. MetAl WirewAys
+ANSWER:  D   
+461. The lArgest size of eleCtriCAl metAlliC tuBing is?
+A. 75 mm
+B. 125 mm
+C. 150 mm
+D. 100 mm
+ANSWER:
+462. WhiCh of the rACewAy methoDs is NOT AlloweD to Be useD in A hAzArDous loCAtion ?
+A. RigiD metAl ConDuit
+B. LiquiD-tight flexiBle metAl ConDuit
+C. RigiD non-metAlliC ConDuit
+D. None of  these
+ANSWER:
+463. ConCeAleD knoB AnD tuBe wiring ConDuCtors shAll Be rigiDly supporteD on knoBs not more thAn A CertAin minimum DistAnCe ApArt. WhAt is this DistAnCe ?
+A. 2000 mm
+B. 1500 mm
+C. 1400 mm
+D. 2500 mm
+ANSWER:  C    ANSWER: 
+464. Where rACewAys Are exposeD to wiDely Different temperAtures they shAll Be ___.?
+A. grounDeD
+B. seAleD
+C. isolAteD
+D. BonDeD
+ANSWER:
+465.  A run ConDuit Between outlets Between fittings Between outlet AnD fitting shAll not ContAin more thAn the equivAlent of ___ quArter-BenDs.?
+A. 2
+B. 4
+C. 3
+D. 5
+ANSWER:  B   
+466. FlAt ConDuCtor CABle   system shAll NOT Be useD in the loCAtions enumerAteD Below EXCEPT one. WhiCh one is this ?
+A. LoCAtions where suBjeCt to Corrosive vApors
+B. DAmp loCAtions
+C. ResiDentiAl BuilDings
+D. OutDoors
+ANSWER:ANSWER:
+467. ConDuCtors must hAve A CleArAnCe from winDows porChes fire esCApes of NOT less thAn?
+A. 900 mm
+B. 700 mm
+C. 1000 mm
+D. 800 mm
+ANSWER:  A    
+468. FlexiBle metAl ConDuits must not Be useD in?
+A. wet loCAtions
+B. hoistwAys
+C. storAge BAttery rooms
+D. All of these
+ANSWER:  D    3.48.2.3 
+469. WhiCh of the following stAtements on lighting fixtures NOT CorreCt \n\nI. OutDoor lighting fixtures AnD AssoCiAteD equipment shAll Be permitteD to Be supporteD By trees\nII. MetAl fixtures AnD enClosures rAteD At 250 V AnD instAlleD up in the Ceiling shAll Be grounDeD\nIII. StrAnDeD ConDuCtors shAll Be useD in A wiring A fixture supporting ChAin AnD other movABle flexiBle pArts\nIV. Fixtures AnD lighting equipment operAting over 250 v shAll Be grounDeD?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B    4.10.5.1 
+470. Where the ConDuits enter A switChBoArD At the Bottom A suffiCient spACe shAll Be proviDeD to permit instAllAtion of the ConDuCtors in the enClosure. The minimum spACing Between the Bottom of the enClosure AnD the non- insulAteD Bus BAr shAll Be ____.?
+A. 155 mm
+B. 300 mm
+C. 250 mm
+D. 200 mm
+ANSWER:  C   
+471.  WhAt is the totAl numBer of meChAniCAl Degrees thAt A PVC ConDuit run mAyBe Bent Between pull joints   ?
+A. 360 Degrees
+B. 180 Degrees
+C. 120 Degrees
+D. 270 Degrees
+ANSWER:  A   
+472. Requires working spACes for equipment operAting 600 V nominAl or less to grounD. This is requireD for live pArts on the other siDe like ConCrete BriCk or tile wAlls AnD shAll Be ConsiDereD As grounDeD. WhAt is this minimum DistAnCe for ConDition 2 ?
+A. 1300 mm
+B. 1400 mm
+C. 1200 mm
+D. 1000 mm
+ANSWER:  D    ANSWER: 
+473. This type of CABle is A fABriCAteD AssemBly of insulAteD ConDuCtors enCloseD in A flexiBle metAl sheAth.?
+A. GrounD wire
+B. IntegrAteD gAs spACer CABle
+C. MeDium voltAge CABle
+D. ArmoreD CABle
+ANSWER:  D   
+474. The surfACe non- metAlliC rACewAy mAy NOT Be useD in the following loCAtions EXCEPT one. WhiCh one is this ?
+A. In Dry loCAtions
+B. Where ConCeAleD
+C. Where suBjeCt to severe physiCAl DAmAge
+D. In hoistwAys
+ANSWER:  A   
+475. The CleArAnCe from the top of A switChBoArD to A Ceiling whiCh is ComBustiBle shAll NOT Be less thAn ____.?
+A. 1000 mm
+B. 800 mm
+C. 900 mm
+D. 1250 mm
+ANSWER:ANSWER:
+476. AsBestos is A type of insulAtor useD in:?
+A. heAter Coils
+B. eleCtriC welDing
+C. lAmp ChorD
+D. CArtriDge fuse
+ANSWER:  B   
+477. The minimum AmpACity of wire for 10 hp 3-phAse  220 volt motor shoulD Be:?
+A. 20 Amps
+B. 35 Amps
+C. 60 Amps
+D. 75 Amps
+ANSWER:  B   TABle 4.30.14.4 
+478. If A 3.5 sq mm wire will sAfely CArry 25 Amps At 120 volts whAt will it CArry At 240 volts ?
+A. 10 Amps
+B. 25 Amps
+C. 15 Amps
+D. 30 Amps
+ANSWER:  B   
+479. A _____ is permAnently loCAteD on the outsiDe of eACh equipment enClosure Door or Cover permitting ACCess to the live pArts in the motor Control CirCuit  wArning thAt motor Control CirCuit DisConneCting meAns Are remotely loCAteD AnD speCifying the loCAtion AnD iDentifiCAtion of eACh DisConneCt.?
+A. First AiD equipment
+B. mAnhole AnD vAults
+C. wArning signs
+D. BoDy Belts AnD sAfety strAp
+ANSWER:  C   
+480. In hAzArDous loCAtion the use of non- metAlliC ConDuit shAll Be permitteD proviDeD it is BurieD NOT less thAn ___ Below the eArth level.?
+A. 400 mm
+B. 600 mm
+C. 1000 mm
+D. 500 mm
+ANSWER:ANSWER:
+481. Equipment for instAllAtion in hAzArDous loCAtions must Be testeD AnD ApproveD for use ACCorDing to the ClAssifiCAtion of the hAzArDs involveD. These Are DiviDeD into _____ groups.?
+A. 4
+B. 3
+C. 7
+D. 6
+ANSWER:  B   
+482. HAzArDous loCAtions Are ClAssifieD By the Philippine EleCtriCAl CoDe in how mAny ClAsses ?
+A. Two ClAsses
+B. Four ClAsses
+C. Three ClAsses
+D. One ClAss
+ANSWER:  C   
+483. A phAse Converter is usuAlly employeD to Convert single- phAse to three- phAse power supply so thAt three- phAse motors mAyBe useD. For this serviCe the PEC speCifies thAt the single – phAse ConDuCtors shAll hAve An AmpACity of NOT less thAn ___ of the full loAD Current rAting of motor or loAD Being serveD where the input AnD the output voltAges Are iDentiCAl.?
+A. 173%
+B. 250%
+C. 216%
+D. 350%
+ANSWER:  B    ANSWER: 
+484. WhiCh of the following stAtements on wiring in CommerCiAl gArAges AnD shops is NOT CorreCt \n\nI. The grounD ConDuCtor shAll Be ConneCteD to the grounD terminAl of the utilizAtion equipment\nII. ReCeptACles AttAChment plugs AnD similAr DeviCes shAll Be of the polArizeD type\nIII. LAmps AnD lAmp holDers for fixeD lighting thAt Are loCAteD ABove vehiCles shAll Be instAlleD not lower thAn 2500 mm\nIV. BAttery ChArgers AnD BAtteries Being ChArgeD shAll not Be loCAteD in loCAtion ClAssifieD As hAzArDous?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:
+485. CommuniCAtion wires AnD CABles shAll Be sepArAteD At LEAST A CertAin minimum DistAnCe from serviCe Drops of eleCtriC light AnD power ConDuCtors whiCh Are not instAlleD in A rACewAy or in CABle. WhAt is this minimum DistAnCe ?
+A. 150 mm
+B. 175 mm
+C. 300 mm
+D. 200 mm
+ANSWER:  C    
+486. FlexiBle CorDs useD in loCAtions where there is A lot of flying flint or fiBers shAll Comply with following EXCEPT one. WhiCh one is this \n\nI. It shAll Be ApproveD for use in loCAtions whiCh Are vApor- filleD\nII. It shAll ContAin in ADDition to the ConDuCtors A grounDing ConDuCtor\nIII. It shAll Be of type ApproveD for extrA hArD usAge\nIV. It shAll Be proviDeD with suitABle seAl to prevent the entrAnCe of Dust?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  A    5.3.1.10 
+487. The sum of the Cross-seCtionAl AreAs of All ContAineD ConDuCtors At Any Cross seCtion of A sheet metAl AuxiliAry gutter shAll not exCeeD to the perCentAge of the interior Cross-seCtionAl AreA of the sheet metAl AuxiliAry gutter. WhAt is this perCentAge ?
+A. 30
+B. 50
+C. 20
+D. 10
+ANSWER:ANSWER:
+488. Where CoAxiAl CABle is AttACheD to BuilDing they shoulD hAve A sepArAtion of At leAst ____ from eleCtriC light or power CABles.?
+A. 100 mm
+B. 50 mm
+C. 250 mm
+D. 200 mm
+ANSWER:  A    
+489. The useD of rigiD metAl ConDuits shAll Be permitteD unDer All AtmospheriC ConDitions suBjeCt to the following ConDitions EXCEPT one. WhiCh one is this \n\nI. Aluminum fittings AnD enClosures shAll Be permitteD to Be useD with rigiD steel ConDuits\nII. Ferrous metAl ConDuits shAll Be permitteD to Be instAlleD in ConCrete\nIII. ConDuits shAll Be permitteD to Be useD in sAnD fill whiCh is suBjeCt to permAnent moisture\nIV. Where the ferrous rACewAys Are proteCteD solely By enAmel the use is permitteD only inDoors?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  B   
+490. The CoDe requires thAt All energizeD pArt of eleCtriCAl equipment operAting At ____ or more shAll Be guArDeD AgAinst ACCiDentAl ContACts By ApproveD enClosures.  WhAt it is this voltAge ?
+A. 24 volts
+B. 110 volts
+C. 230 volts
+D. 50 volts
+ANSWER:ANSWER:
+491.  Other equipment thAt is AssoCiAteD with the eleCtriCAl instAllAtion AnD is loCAteD ABove or Below the eleCtriCAl equipment shAll Be permitteD to extenD not more thAn ____ mm BeyonD the front of the eleCtriCAl equipment.?
+A. 250 mm
+B. 200 mm
+C. 100 mm
+D. 150 mm
+ANSWER:  D    ANSWER: 
+492. Wirings AlloweD to Be instAlleD outsiDe BuilDings Are enumerAteD Below EXCEPT one.  WhiCh one is this ?
+A. Type MC CABle
+B. FlAt ConDuCtor CABle
+C. RigiD metAl ConDuit
+D. Open wires on insulAtors
+ANSWER:  B   
+493. BrAnCh lighting CirCuits shAll Be proteCteD By overCurrent DeviCes not rAteD more thAn ___?
+A. 40A
+B. 20A
+C. 30A
+D. 50A
+ANSWER:  B    
+494. The grounDing eleCtroDe for grounDing CommuniCAtions systems mAy Be ConneCteD to the neArest ACCessiBle loCAtion on Any of the following EXCEPT one.  WhiCh one is this \n\nI. BurieD interior PVC wAter piping system\nII. grounDing eleCtroDe ConDuCtor\nIII. BuilDing struCture of A ConCrete BuilDing\nIV.  grounDing terminAl of serviCe equipment if proviDeD By the utility CompAny?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  A    ANSWER: 
+495. Resistors AnD reACtors shAll not Be instAlleD in Close proximity to ComBustiBle mAteriAls suCh thAt it Constitutes A fire hAzArD.  WhAt minimum CleArAnCe is requireD By the CoDe ?
+A. 250mm
+B. 305mm
+C. 400mm
+D. 100mm
+ANSWER:  B    
+496. The mAximum size of liquiD tight flexiBle metAl ConDuit shAll Be ___ trADe size?
+A. 50mm
+B. 125mm
+C. 150mm
+D. 100mm
+ANSWER:ANSWER:
+497. Where the ConDuits enter A switChBoArD At the Bottom A suffiCient spACe shAll Be proviDeD to permit instAllAtion of the ConDuCtors in the enClosure.  The minimum spACing Between the Bottom of the enClosure AnD the noninsulAteD Bus BAr shAll Be ___?
+A. 155mm
+B. 300mm
+C. 250mm
+D. 200mm
+ANSWER:  C   
+498. A lighting fixture shAll Be wireD with A flexiBle lighting CorD with A Cross-seCtionAl AreA of NOT less thAn A CertAin minimum AreA.  WhiCh is this ?
+A. 0.75 mm
+B. 2.00 mm
+C. 0.50 mm
+D. 1.25 mm
+ANSWER:ANSWER:
+499. The surge Arrester for serviCes less thAn 1000 volts ConneCteD By Copper ConDuCtor to grounDing eleCtroDe ConDuCtor or the equivAlent grounDing terminAl shAll NOT Be smAller thAn ____?
+A. 8.0 mm2
+B. 5.5 mm2
+C. 3.5 mm2
+D. 2.0 mm2
+ANSWER:  D   
+500. The grounDing eleCtroDe for grounDing CommuniCAtions systems mAy Be ConneCteD to the neArest ACCessiBle loCAtion on Any of the following EXCEPT one.  WhiCh one is this \n\nI. BurieD interior PVC wAter piping system\nII. grounDing eleCtroDe ConDuCtor\nIII. BuilDing struCture of A ConCrete BuilDing\nIV. grounDing terminAl of serviCe equipment if proviDeD By the utility CompAny?
+A. I only
+B. II only
+C. III only
+D. IV only
+ANSWER:  A    ANSWER: 
